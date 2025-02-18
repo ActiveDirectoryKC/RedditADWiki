@@ -3,7 +3,7 @@
 >
 >This post will be updated periodically, but we advise you to check the wiki link here: [https://www.reddit.com/r/activedirectory/wiki/AD-Resources](https://www.reddit.com/r/activedirectory/wiki/AD-Resources) for the most up-to-date version.
 > 
->If you are interested in how these items were selected see the wiki page for "AD Tools Reviews Guidelines". This is also where you can get details on submitting your script or tool. {LINK\_TO\_PAGE}
+>If you are interested in how these items were selected see the wiki page for [AD Tools Reviews Guidelines](https://www.reddit.com/r/activedirectory/wiki/index/Tools-And-Resources-Listing-Guidelines). This is also where you can get details on submitting your script or tool.
 >
 <!-- END POST ONLY SECTION -->
 There are a lot of resources for Active Directory, Entra, and other Identity products. It is a challenge to sort through them. This list is curated by the moderators and tech council of r/ActiveDirectory to be include good references and resources. As always, please comment or send a modmail if you thing something needs added or removed or if a link is broken.
@@ -22,7 +22,7 @@ There are a lot of resources for Active Directory, Entra, and other Identity pro
 * ✨ Wiki General - [https://www.reddit.com/r/activedirectory/wiki/index/](https://www.reddit.com/r/activedirectory/wiki/index/)
 * ✨ Wiki AD-Resources - [https://www.reddit.com/r/activedirectory/wiki/AD-Resources](https://www.reddit.com/r/activedirectory/wiki/AD-Resources)
 * ✨ Wiki MCM-Links - [https://www.reddit.com/r/activedirectory/wiki/AD-Resources/MCM-Links](https://www.reddit.com/r/activedirectory/wiki/AD-Resources/MCM-Links)
-* ✨ Wiki AD-Security Tools - [https://www.reddit.com/r/activedirectory/wiki/AD-SecurityTools](https://www.reddit.com/r/activedirectory/wiki/AD-SecurityTools)
+* ✨ Wiki AD-Security Tools - [https://www.reddit.com/r/activedirectory/wiki/AD-Tools](https://www.reddit.com/r/activedirectory/wiki/AD-Tools)
 
 # Training and Certifications
 
