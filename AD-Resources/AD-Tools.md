@@ -7,7 +7,7 @@ This page is vaguely organized based on tool function with as much information a
 
 In addition, all r/ActiveDirectory wiki pages and resource posts (which are duplicates of the wiki pages) are stored on GitHub: [](https://github.com/ActiveDirectoryKC/RedditADWiki)
 
-If you are interested in how these items were selected see the wiki page for "AD Tools Reviews Guidelines". This is also where you can get details on submitting your script or tool. [LINK TO GUIDELINES]{}
+If you are interested in how these items were selected see the wiki page for [AD Tools Reviews Guidelines](https://www.reddit.com/r/activedirectory/wiki/index/Tools-And-Resources-Listing-Guidelines). This is also where you can get details on submitting your script or tool.
 
 
 >!**ICONS REFERENCE**!<
