@@ -1,9 +1,11 @@
+<!-- POST ONLY SECTION  - This section should only show up in the pinned reddit post, not the wiki itself.-->
 >**NOTE**
 >
 >This post will be updated periodically, but we advise you to check the wiki link here: [https://www.reddit.com/r/activedirectory/wiki/AD-Resources](https://www.reddit.com/r/activedirectory/wiki/AD-Resources) for the most up-to-date version.
 > 
 >If you are interested in how these items were selected see the wiki page for "AD Tools Reviews Guidelines". This is also where you can get details on submitting your script or tool. {LINK\_TO\_PAGE}
-> 
+>
+<!-- END POST ONLY SECTION -->
 There are a lot of resources for Active Directory, Entra, and other Identity products. It is a challenge to sort through them. This list is curated by the moderators and tech council of r/ActiveDirectory to be include good references and resources. As always, please comment or send a modmail if you thing something needs added or removed or if a link is broken.
 > 
 > In addition, all r/ActiveDirectory wiki pages and resource posts (which are duplicates of the wiki pages) are stored on GitHub: [](https://github.com/ActiveDirectoryKC/RedditADWiki)
@@ -85,7 +87,7 @@ There are a lot of resources for Active Directory, Entra, and other Identity pro
 
 # Active Directory Documentation
 
->**NOTE** This is not a comprehensive list of links and references, that would be impossible. These are general links. See the "MCM / MCSM (Microsoft Certified \[Solutions\] Master) Reading List" wiki page.
+>**NOTE** This is not a comprehensive list of links and references, that would be impossible. These are general links. See the "MCM / MCSM (Microsoft Certified \[Solutions\] Master) Reading List" wiki page: https://www.reddit.com/r/activedirectory/wiki/AD-Resources/MCM-Links.
 
 * AD Documentation: [https://docs.microsoft.com/en-us/windows-server/identity/ad-ds/active-directory-domain-services](https://docs.microsoft.com/en-us/windows-server/identity/ad-ds/active-directory-domain-services)
 * Identity and Access Documentation: [https://docs.microsoft.com/en-us/windows-server/identity/identity-and-access](https://docs.microsoft.com/en-us/windows-server/identity/identity-and-access)
