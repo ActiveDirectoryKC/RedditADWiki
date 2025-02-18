@@ -3,7 +3,7 @@
 
 This is a collection of scripts, tools, and general tools that the community has found helpful for Active Directory. We will try to keep this list updated and new tools as we find them. If you think of something that should be added, comment on the post or send a modmail and we'll get it added. Likewise if a link is broken let us know.
 
-This page is vaguely organized based on tool function with as much information as we can realistically provide in this kind of format. If you have comments or feed back, please [message the mods]{https://www.reddit.com/message/compose?to=r/activedirectory}.
+This page is vaguely organized based on tool function with as much information as we can realistically provide in this kind of format. If you have comments or feed back, please [message the mods](https://www.reddit.com/message/compose?to=r/activedirectory).
 
 In addition, all r/ActiveDirectory wiki pages and resource posts (which are duplicates of the wiki pages) are stored on GitHub: [](https://github.com/ActiveDirectoryKC/RedditADWiki)
 
