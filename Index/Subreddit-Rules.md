@@ -1,3 +1,9 @@
+# SUBREDDIT RULES
+
+This is a greater detail on the rules than the sidebar can provide.
+
+# Rule Violation Actions
+
 Unless otherwise noted the following actions can/will occur for rule violations
 
 * 1st Offense - Warning.
@@ -65,6 +71,6 @@ Obviously, Reddits rules and TOS must be followed. You have no choice.
    * If this needs communicated do it via chat or direct message.
 * Users are not allowed to identify anyone else who hasn't "outted" themselves publicly.
 
-# Change Log
+**Change Log**
 
-* 2025-01 - Page Created in Wiki
+* 2025-02 - Page Created in Wiki
