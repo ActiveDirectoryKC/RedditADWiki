@@ -1,7 +1,7 @@
 >❗❗❗\[WARNING\]❗❗❗
 >Many of these tools WILL trip EDR/XDR, ITDR and any intrusion detection scanners. Some of the information gathered is the same information that malicious actors would want to gather. Make sure you communicate with your security team and SOCs before running these tools. You've been warned.
 
-This is a collection of scripts, tools, and general tools that the community has found helpful for Active Directory. We will try to keep this list updated and new tools as we find them. If you think of something that should be added, comment on the post or send a modmail and we'll get it added. Likewise if a link is broken let us know.
+This is a collection of scripts, tools, and general tools that the community has found helpful for Active Directory. We will try to keep this list updated and new tools as we find them. If you think of something that should be added, send a [modmail ](https://www.reddit.com/message/compose?to=r/activedirectory)or post an [issue](https://github.com/ActiveDirectoryKC/RedditADWiki/issues) on the wiki's github and we'll get it added. Likewise if a link is broken let us know.
 
 This page is vaguely organized based on tool function with as much information as we can realistically provide in this kind of format. If you have comments or feed back, please [message the mods](https://www.reddit.com/message/compose?to=r/activedirectory).
 
