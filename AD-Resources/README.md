@@ -161,10 +161,10 @@ There are a lot of resources for Active Directory, Entra, and other Identity pro
 * ❗Bloodhound (SpecterOps) \[WILL FLAG AV\]
    * [https://github.com/BloodHoundAD/BloodHound](https://github.com/BloodHoundAD/BloodHound)
 * Invoke-TrimarcADChecks (Trimarc) - [https://github.com/Trimarc/Invoke-TrimarcADChecks](https://github.com/Trimarc/Invoke-TrimarcADChecks)
-* ✨Locksmith (Trimarc) - https://github.com/TrimarcJake/Locksmith
-   * PKI Checking tool by Trimarc Security.
+* ✨Locksmith - [https://github.com/jakehildreth/](https://github.com/jakehildreth/Locksmith)
+   * PKI Auditing and Checking Tool.
    * This is a must have when running PKI. Really good and there is a lot of active development on it (2025).
-* ✨BlueTuxedo (Trimarc) - https://github.com/TrimarcJake/BlueTuxedo
+* ✨BlueTuxedo - [[https://github.com/TrimarcJake/BlueTuxedo](https://github.com/jakehildreth/BlueTuxedo)
    * "A tiny tool built to find an dfix common misconfigurations in AD-Integrated DNS..."
    * Finds stuff in DNS you may not find.
 
@@ -178,7 +178,7 @@ There are a lot of resources for Active Directory, Entra, and other Identity pro
 * ✨ [https://syfuhs.net/](https://syfuhs.net/)
 * [https://blogs.chrisse.se/](https://blogs.chrisse.se/)
 * [https://medium.com/@jonasblowknudsen](https://medium.com/@jonasblowknudsen)
-* [https://trimarcjake.github.io/blog/](https://trimarcjake.github.io/blog/)
+* [https://jakehildreth.github.io/blog/](https://jakehildreth.github.io/blog/)
 * [https://medium.com/@nannnu](https://medium.com/@nannnu)
 * [https://ryanries.github.io/](https://ryanries.github.io/)
 * [https://evotec.xyz/hub/](https://evotec.xyz/hub/)
@@ -231,6 +231,5 @@ There are a lot of resources for Active Directory, Entra, and other Identity pro
    * [https://www.hub.trimarcsecurity.com/video](https://www.hub.trimarcsecurity.com/video)
 
 # CHANGE LOG
-
+* Updated 2025-02 with link updates. 
 * Updated 2025-01 with new links, more training options, and more tools. Also created off-reddit wiki page for tracking the details.
-* Updated 2024-09 Updated STIG links, added more tools, and clarified some language.
