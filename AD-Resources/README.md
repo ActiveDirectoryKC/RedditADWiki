@@ -161,7 +161,7 @@ There are a lot of resources for Active Directory, Entra, and other Identity pro
 * ❗Bloodhound (SpecterOps) \[WILL FLAG AV\]
    * [https://github.com/BloodHoundAD/BloodHound](https://github.com/BloodHoundAD/BloodHound)
 * Invoke-TrimarcADChecks (Trimarc) - [https://github.com/Trimarc/Invoke-TrimarcADChecks](https://github.com/Trimarc/Invoke-TrimarcADChecks)
-* ✨Locksmith - [https://github.com/jakehildreth/](https://github.com/jakehildreth/Locksmith)
+* ✨Locksmith - [https://github.com/jakehildreth/Locksmith](https://github.com/jakehildreth/Locksmith)
    * PKI Auditing and Checking Tool.
    * This is a must have when running PKI. Really good and there is a lot of active development on it (2025).
 * ✨BlueTuxedo - [[https://github.com/TrimarcJake/BlueTuxedo](https://github.com/jakehildreth/BlueTuxedo)
