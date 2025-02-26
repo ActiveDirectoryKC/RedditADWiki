@@ -81,6 +81,12 @@ If you are interested in how these items were selected see the wiki page for [AD
    * [https://github.com/Trimarc/Invoke-TrimarcADChecks](https://github.com/Trimarc/Invoke-TrimarcADChecks)
 * AD ACL Scanner - 
    * [https://managedpriv.com/project/ad-acl-scanner/](https://managedpriv.com/project/ad-acl-scanner/)
+* ScriptSentry 
+  *  [https://github.com/techspence/ScriptSentry](https://github.com/techspence/ScriptSentry)
+  *  Helps identify and find dangerous logon scripts.
+* ADeleginator
+  *  [https://github.com/techspence/ADeleginator](https://github.com/techspence/ADeleginator)
+  *  Helps identify and find dangerous AD trustee and resource delegations.
 * Hardening Kitty - CIS benchmarking script
    * [https://github.com/scipag/HardeningKitty](https://github.com/scipag/HardeningKitty)
 * OpenVas - General Vulnerability Scanning Tool (Similar to Nessus or Rapid7)
@@ -107,6 +113,11 @@ If you are interested in how these items were selected see the wiki page for [AD
    * [https://www.joeware.net/freetools/tools/admod/index.htm](https://www.joeware.net/freetools/tools/admod/index.htm)
    * Command-line tool for modifying AD Objects. Predates PowerShell.
    * This will trip most AV/EDR solutions as the bad guys are using it because it is so good. That is why it isn't starred.
+* ✨ AsBuiltReport.Microsoft.AD
+   * [https://github.com/AsBuiltReport/AsBuiltReport.Microsoft.AD/issues](https://github.com/AsBuiltReport/AsBuiltReport.Microsoft.AD/issues)
+   * This tool scans your directory and does tons of documentation for you. Also generates drawings of the environments to help with documentation.
+     * ❔The drawings do not scale well with large environments.   
+   * ❔This may trigger EDR/XDR auditing as it asked for a lot of information. This has not been verified yet though. 
 * Delinea (formerly Thycotic) Weak Password Finder 
    * [https://delinea.com/resources/weak-password-finder-tool-active-directory](https://delinea.com/resources/weak-password-finder-tool-active-directory)
 * Lithnet Access Manager
