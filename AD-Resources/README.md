@@ -1,23 +1,20 @@
 <!-- POST ONLY SECTION  - This section should only show up in the pinned reddit post, not the wiki itself.-->
->**NOTE**
->
->This post will be updated periodically, but we advise you to check the wiki link here: [https://www.reddit.com/r/activedirectory/wiki/AD-Resources](https://www.reddit.com/r/activedirectory/wiki/AD-Resources) for the most up-to-date version.
-> 
+>**NOTE**  
+This post will be updated periodically, but we advise you to check the wiki link here: [https://www.reddit.com/r/activedirectory/wiki/AD-Resources](https://www.reddit.com/r/activedirectory/wiki/AD-Resources) for the most up-to-date version.
 >If you are interested in how these items were selected see the wiki page for [AD Tools Reviews Guidelines](https://www.reddit.com/r/activedirectory/wiki/index/Tools-And-Resources-Listing-Guidelines). This is also where you can get details on submitting your script or tool.
 >
 <!-- END POST ONLY SECTION -->
 # AD RESOURCES
 There are a lot of resources for Active Directory, Entra, and other Identity products. It is a challenge to sort through them. This list is curated by the moderators and tech council of r/ActiveDirectory to be include good references and resources. As always, please send a [modmail ](https://www.reddit.com/message/compose?to=r/activedirectory)or post an [issue](https://github.com/ActiveDirectoryKC/RedditADWiki/issues) on the wiki's github if you thing something needs added or removed or if a link is broken.
 
-> 
-> In addition, all r/ActiveDirectory wiki pages and resource posts (which are duplicates of the wiki pages) are stored on GitHub: [https://github.com/ActiveDirectoryKC/RedditADWiki](https://github.com/ActiveDirectoryKC/RedditADWiki)
+>In addition, all r/ActiveDirectory wiki pages and resource posts (which are duplicates of the wiki pages) are stored on GitHub: [https://github.com/ActiveDirectoryKC/RedditADWiki](https://github.com/ActiveDirectoryKC/RedditADWiki)
 
->!**ICONS REFERENCE**!<
+**ICONS REFERENCE**
 
-* >!💥- Resources that are guaranteed to trip the SOC monitoring and are likely to be detected by AV/EDR.!<
-* >!❗ - Resources that are going to trip SOC notifications. Coordinate with your SOC team.!<
-* >!✨ - Resources that are highly recommended by the community and reviewed by Mods.!<
-* >!❔ - Indicates that the resource is recommended by community members but not fully reviewed by mods.!<  
+* 💥- Resources that are guaranteed to trip the SOC monitoring and are likely to be detected by AV/EDR.  
+* ❗ - Resources that are going to trip SOC notifications. Coordinate with your SOC team.
+* ✨ - Resources that are highly recommended by the community and reviewed by Mods.
+* ❔ - Indicates that the resource is recommended by community members but not fully reviewed by mods.
 
 # Wiki Links
 
@@ -89,7 +86,9 @@ There are a lot of resources for Active Directory, Entra, and other Identity pro
 
 # Active Directory Documentation
 
->**NOTE** This is not a comprehensive list of links and references, that would be impossible. These are general links. See the "MCM / MCSM (Microsoft Certified \[Solutions\] Master) Reading List" wiki page: https://www.reddit.com/r/activedirectory/wiki/AD-Resources/MCM-Links.
+>**NOTE** This is not a comprehensive list of links and references, that would be impossible. These are general links.
+
+>See the "MCM / MCSM (Microsoft Certified \[Solutions\] Master) Reading List" wiki page: [https://www.reddit.com/r/activedirectory/wiki/AD-Resources/MCM-Links](https://www.reddit.com/r/activedirectory/wiki/AD-Resources/MCM-Links)
 
 * AD Documentation: [https://docs.microsoft.com/en-us/windows-server/identity/ad-ds/active-directory-domain-services](https://docs.microsoft.com/en-us/windows-server/identity/ad-ds/active-directory-domain-services)
 * Identity and Access Documentation: [https://docs.microsoft.com/en-us/windows-server/identity/identity-and-access](https://docs.microsoft.com/en-us/windows-server/identity/identity-and-access)
@@ -232,4 +231,4 @@ There are a lot of resources for Active Directory, Entra, and other Identity pro
 
 # CHANGE LOG
 * Updated 2025-02 with link updates. 
-* Updated 2025-01 with new links, more training options, and more tools. Also created off-reddit wiki page for tracking the details.
+* Updated 2025-01 with new links, more training options, and more tools. Also created off-reddit wiki page for tracking the details.**
