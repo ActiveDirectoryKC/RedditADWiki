@@ -60,14 +60,12 @@ If you are interested in how these items were selected see the wiki page for [AD
    * This is a freeium scanning tool that can give you at least a base-level security posture for your environment.
    * Netwrix is a little spammy with their products but recently-ish acquired PingCastle so we'll see where it goes..
    * [https://www.pingcastle.com/download/](https://www.pingcastle.com/download/)
-* ✨Locksmith (Trimarc)- PKI Checking tool
-   * [https://github.com/TrimarcJake/Locksmith](https://github.com/TrimarcJake/Locksmith)
-   * PKI Checking tool by Trimarc Security.
+* ✨Locksmith - [https://github.com/jakehildreth/Locksmith](https://github.com/jakehildreth/Locksmith)
+   * PKI Auditing and Checking Tool.
    * This is a must have when running PKI. Really good and there is a lot of active development on it (2025).
-* ✨BlueTuxedo (Trimarc) - AD-Integrated DNS Auditing Tool
-   * [https://github.com/TrimarcJake/BlueTuxedo](https://github.com/TrimarcJake/BlueTuxedo)
-      * "A tiny tool built to find and fix common misconfigurations in AD-Integrated DNS..."
-      * Finds stuff in DNS you may not find.
+* ✨BlueTuxedo - [[https://github.com/TrimarcJake/BlueTuxedo](https://github.com/jakehildreth/BlueTuxedo)
+   * "A tiny tool built to find an dfix common misconfigurations in AD-Integrated DNS..."
+   * Finds stuff in DNS you may not find.
 * 💥BloodHound/SharpHound - Attack Path Analysis
    * [https://github.com/BloodHound](https://github.com/BloodHound)
    * Almost every EDR/XDR/ITDR tool will pick up on this and alert. Be warned.
@@ -81,6 +79,12 @@ If you are interested in how these items were selected see the wiki page for [AD
    * [https://github.com/Trimarc/Invoke-TrimarcADChecks](https://github.com/Trimarc/Invoke-TrimarcADChecks)
 * AD ACL Scanner - 
    * [https://managedpriv.com/project/ad-acl-scanner/](https://managedpriv.com/project/ad-acl-scanner/)
+* ScriptSentry 
+  *  [https://github.com/techspence/ScriptSentry](https://github.com/techspence/ScriptSentry)
+  *  Helps identify and find dangerous logon scripts.
+* ADeleginator
+  *  [https://github.com/techspence/ADeleginator](https://github.com/techspence/ADeleginator)
+  *  Helps identify and find dangerous AD trustee and resource delegations.
 * Hardening Kitty - CIS benchmarking script
    * [https://github.com/scipag/HardeningKitty](https://github.com/scipag/HardeningKitty)
 * OpenVas - General Vulnerability Scanning Tool (Similar to Nessus or Rapid7)
@@ -107,6 +111,11 @@ If you are interested in how these items were selected see the wiki page for [AD
    * [https://www.joeware.net/freetools/tools/admod/index.htm](https://www.joeware.net/freetools/tools/admod/index.htm)
    * Command-line tool for modifying AD Objects. Predates PowerShell.
    * This will trip most AV/EDR solutions as the bad guys are using it because it is so good. That is why it isn't starred.
+* ✨ AsBuiltReport.Microsoft.AD
+   * [https://github.com/AsBuiltReport/AsBuiltReport.Microsoft.AD/issues](https://github.com/AsBuiltReport/AsBuiltReport.Microsoft.AD/issues)
+   * This tool scans your directory and does tons of documentation for you. Also generates drawings of the environments to help with documentation.
+     * ❔The drawings do not scale well with large environments.   
+   * ❔This may trigger EDR/XDR auditing as it asked for a lot of information. This has not been verified yet though. 
 * Delinea (formerly Thycotic) Weak Password Finder 
    * [https://delinea.com/resources/weak-password-finder-tool-active-directory](https://delinea.com/resources/weak-password-finder-tool-active-directory)
 * Lithnet Access Manager
@@ -124,7 +133,7 @@ If you are interested in how these items were selected see the wiki page for [AD
    * [https://specopssoft.com/lp/uk/free-active-directory-password-audit/](https://specopssoft.com/lp/uk/free-active-directory-password-audit/)
    * **MOD NOTE:** Used once, not a big fan of dumping passwords.
 * PowerPUG - Tool to help with tranisitiong to using Protected Users
-   * [https://github.com/TrimarcJake/PowerPUG](https://github.com/TrimarcJake/PowerPUG)
+   * [https://github.com/TrimarcJake/PowerPUG](https://github.com/jakehildreth/PowerPUG)
 * 💥 ADRecon - Extracts and combines various artifacts out of AD.
    * [https://github.com/adrecon/ADRecon](https://github.com/adrecon/ADRecon)
 * ❔ myADMonitor - Open-source AD change tracking tool
