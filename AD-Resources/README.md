@@ -91,12 +91,14 @@ There are a lot of resources for Active Directory, Entra, and other Identity pro
 
 >**NOTE** This is not a comprehensive list of links and references, that would be impossible. These are general links. See the "MCM / MCSM (Microsoft Certified \[Solutions\] Master) Reading List" wiki page: https://www.reddit.com/r/activedirectory/wiki/AD-Resources/MCM-Links.
 
-* AD Documentation: [https://docs.microsoft.com/en-us/windows-server/identity/ad-ds/active-directory-domain-services](https://docs.microsoft.com/en-us/windows-server/identity/ad-ds/active-directory-domain-services)
+* ✨AD Documentation: [https://docs.microsoft.com/en-us/windows-server/identity/ad-ds/active-directory-domain-services](https://docs.microsoft.com/en-us/windows-server/identity/ad-ds/active-directory-domain-services)
+* ✨AD Ports Reference: [https://learn.microsoft.com/en-us/troubleshoot/windows-server/active-directory/config-firewall-for-ad-domains-and-trusts](https://learn.microsoft.com/en-us/troubleshoot/windows-server/active-directory/config-firewall-for-ad-domains-and-trusts)
+* DS Internals AD Firewall Guidelines \[3rd Party\]: [https://firewall.dsinternals.com/ ](https://firewall.dsinternals.com/ )
 * Identity and Access Documentation: [https://docs.microsoft.com/en-us/windows-server/identity/identity-and-access](https://docs.microsoft.com/en-us/windows-server/identity/identity-and-access)
 * Active Directory Domain Services (Win32): [https://docs.microsoft.com/en-us/windows/win32/ad/active-directory-domain-services](https://docs.microsoft.com/en-us/windows/win32/ad/active-directory-domain-services)
 * About AD DS: [https://docs.microsoft.com/en-us/windows/win32/ad/about-active-directory-domain-services](https://docs.microsoft.com/en-us/windows/win32/ad/about-active-directory-domain-services)
 * Using AD DS: [https://docs.microsoft.com/en-us/windows/win32/ad/using-active-directory-domain-services](https://docs.microsoft.com/en-us/windows/win32/ad/using-active-directory-domain-services)
-* MS-ADTS: Active Directory Technical Specification - "openspecs": [https://docs.microsoft.com/en-us/openspecs/windows\_protocols/ms-adts](https://docs.microsoft.com/en-us/openspecs/windows_protocols/ms-adts)
+* ✨MS-ADTS: Active Directory Technical Specification - "openspecs": [https://docs.microsoft.com/en-us/openspecs/windows\_protocols/ms-adts](https://docs.microsoft.com/en-us/openspecs/windows_protocols/ms-adts)
 * **LEGACY Active Directory Collection:** [https://docs.microsoft.com/en-us/previous-versions/windows/it-pro/windows-server-2003/cc780036(v=ws.10)](https://docs.microsoft.com/en-us/previous-versions/windows/it-pro/windows-server-2003/cc780036(v=ws.10))
 * **LEGACY Active Directory:** [https://docs.microsoft.com/en-us/previous-versions/windows/it-pro/windows-2000-server/cc977985(v=technet.10)?redirectedfrom=MSDN](https://docs.microsoft.com/en-us/previous-versions/windows/it-pro/windows-2000-server/cc977985(v=technet.10)?redirectedfrom=MSDN)
 
@@ -231,5 +233,6 @@ There are a lot of resources for Active Directory, Entra, and other Identity pro
    * [https://www.hub.trimarcsecurity.com/video](https://www.hub.trimarcsecurity.com/video)
 
 # CHANGE LOG
+* Updated 2025-04 with new links - Firewall Links
 * Updated 2025-02 with link updates. 
 * Updated 2025-01 with new links, more training options, and more tools. Also created off-reddit wiki page for tracking the details.
