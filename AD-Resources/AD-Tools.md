@@ -85,6 +85,16 @@ If you are interested in how these items were selected see the wiki page for [AD
 * ADeleginator
   *  [https://github.com/techspence/ADeleginator](https://github.com/techspence/ADeleginator)
   *  Helps identify and find dangerous AD trustee and resource delegations.
+*  ❔Harden-Sysvol
+  * https://github.com/dakhama-mehdi/Harden-Sysvol
+  * "HardenSysvol is an open-source tool developed by the HardenAD Community to complement Active Directory audit tools by analyzing GPOs and scripts on Sysvol folder."
+
+## Generic Scanning / Vulnerability Tools
+* Wazuh - Open Source SIEM/XDR Solution
+  * https://wazuh.com/
+  * AD-specific Configurations
+    * https://wazuh.com/blog/how-to-detect-active-directory-attacks-with-wazuh-part-1-of-2/
+    * https://wazuh.com/blog/how-to-detect-active-directory-attacks-with-wazuh-part-2/
 * Hardening Kitty - CIS benchmarking script
    * [https://github.com/scipag/HardeningKitty](https://github.com/scipag/HardeningKitty)
 * OpenVas - General Vulnerability Scanning Tool (Similar to Nessus or Rapid7)
@@ -118,7 +128,7 @@ If you are interested in how these items were selected see the wiki page for [AD
    * ❔This may trigger EDR/XDR auditing as it asked for a lot of information. This has not been verified yet though. 
 * Delinea (formerly Thycotic) Weak Password Finder 
    * [https://delinea.com/resources/weak-password-finder-tool-active-directory](https://delinea.com/resources/weak-password-finder-tool-active-directory)
-* Lithnet Access Manager
+* ✨Lithnet Access Manager
    * [https://github.com/lithnet/access-manager](https://github.com/lithnet/access-manager)
    * Allows for some LAPS/RapidLAPS administration.
    * The free version is limited on JIT roles but effectively as fully featured as the paid.
@@ -136,8 +146,9 @@ If you are interested in how these items were selected see the wiki page for [AD
    * [https://github.com/TrimarcJake/PowerPUG](https://github.com/jakehildreth/PowerPUG)
 * 💥 ADRecon - Extracts and combines various artifacts out of AD.
    * [https://github.com/adrecon/ADRecon](https://github.com/adrecon/ADRecon)
-* ❔ myADMonitor - Open-source AD change tracking tool
+* myADMonitor - Open-source AD change tracking tool
    * [https://github.com/mihemihe/myADMonitor](https://github.com/mihemihe/myADMonitor)
+   * **MOD NOTE:** Not something meant to be run for a long time, run it for awhile and turn it off. 
 * ManagedEsent - Tool for accessing the esent.dll which is the tool that drives the NTDS.DIT
    * [https://github.com/microsoft/ManagedEsent](https://github.com/microsoft/ManagedEsent)
 * ❔ Export-ActiveDirectoryVisioMap
@@ -159,6 +170,11 @@ If you are interested in how these items were selected see the wiki page for [AD
 * IS Decisions Tools - Similar story to Netwrix. Some decent tools that are used to farm for emails to spam.
    * ❔File Audit - [https://www.isdecisions.com/products/fileaudit/](https://www.isdecisions.com/products/fileaudit/)
    * ❔User Lock - [https://www.isdecisions.com/products/userlock/](https://www.isdecisions.com/products/userlock/)
+ * ❔Restore from IFM (RIFM) 
+   * https://github.com/LDAPAngel/RIFM
+   * Tool that builds off of the DSInternals tools to aid in restoring AD from IFM.
+ * ❔HeathAD - AD Health Monitoring Tool (TBD)
+   * https://dakhama-mehdi.github.io/ADhealth/Example/HealthAD.html
 
 # Password Filters
 
@@ -166,7 +182,7 @@ If you are interested in how these items were selected see the wiki page for [AD
 
 * ✨PassFiltEx (Ryan Ries) - A simple password filter for AD that can block blacklisted passwords and character sequences. Similar to Entra Password Protection.
    * [https://github.com/ryanries/PassFiltEx](https://github.com/ryanries/PassFiltEx)
-* Lithnet Password Protection
+* ✨Lithnet Password Protection
    * [https://github.com/lithnet/ad-password-protection](https://github.com/lithnet/ad-password-protection)
    * A really good altnerative to other tools. (not starred because I haven't completed my testing)
 
@@ -196,4 +212,5 @@ If you are interested in how these items were selected see the wiki page for [AD
 * VulnerableAD - perfect for creating a vulnerable AD environment - [https://github.com/WazeHell/vulnerable-AD](https://github.com/WazeHell/vulnerable-AD)
 
 # CHANGE LOG
+* Updated 2024-04 - Included more tools from reddit and from issues. 
 * Created 2025-01
