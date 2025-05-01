@@ -6,7 +6,7 @@ Welcome to the /r/ActiveDirectory wiki! The wiki is divided into two sections: r
     - [AD Tools Reference](https://www.reddit.com/r/activedirectory/wiki/ad-resources/ad-tools)
     - [MCM Links Reference](https://www.reddit.com/r/activedirectory/wiki/ad-resources/mcm-links)
 - [Index (this page)](https://www.reddit.com/r/activedirectory/wiki/index)
-    - [Subreddit Rules](https://www.reddit.com/r/activedirectory/wiki/index/Subreddit-Rules.md)
+    - [Subreddit Rules](https://www.reddit.com/r/activedirectory/wiki/index/Subreddit-Rules)
     - [Tools and Resources Listing Guidelines](https://www.reddit.com/r/activedirectory/wiki/index/Tools-And-Resources-Listing-Guidelines)
 
 ## GitHub Wiki Backup
