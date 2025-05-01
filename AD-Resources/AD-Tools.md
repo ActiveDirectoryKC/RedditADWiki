@@ -83,11 +83,11 @@ If you are interested in how these items were selected see the wiki page for [AD
   *  [https://github.com/techspence/ScriptSentry](https://github.com/techspence/ScriptSentry)
   *  Helps identify and find dangerous logon scripts.
 * ADeleginator
-  *  [https://github.com/techspence/ADeleginator](https://github.com/techspence/ADeleginator)
-  *  Helps identify and find dangerous AD trustee and resource delegations.
+   *  [https://github.com/techspence/ADeleginator](https://github.com/techspence/ADeleginator)
+   *  Helps identify and find dangerous AD trustee and resource delegations.
 *  ❔Harden-Sysvol
-  * https://github.com/dakhama-mehdi/Harden-Sysvol
-  * "HardenSysvol is an open-source tool developed by the HardenAD Community to complement Active Directory audit tools by analyzing GPOs and scripts on Sysvol folder."
+   *  https://github.com/dakhama-mehdi/Harden-Sysvol
+   *  "HardenSysvol is an open-source tool developed by the HardenAD Community to complement Active Directory audit tools by analyzing GPOs and scripts on Sysvol folder."
 
 ## Generic Scanning / Vulnerability Tools
 * Wazuh - Open Source SIEM/XDR Solution
@@ -122,7 +122,7 @@ If you are interested in how these items were selected see the wiki page for [AD
    * Command-line tool for modifying AD Objects. Predates PowerShell.
    * This will trip most AV/EDR solutions as the bad guys are using it because it is so good. That is why it isn't starred.
 * ✨ AsBuiltReport.Microsoft.AD
-   * [https://github.com/AsBuiltReport/AsBuiltReport.Microsoft.AD/issues](https://github.com/AsBuiltReport/AsBuiltReport.Microsoft.AD/issues)
+   * https://github.com/AsBuiltReport
    * This tool scans your directory and does tons of documentation for you. Also generates drawings of the environments to help with documentation.
      * ❔The drawings do not scale well with large environments.   
    * ❔This may trigger EDR/XDR auditing as it asked for a lot of information. This has not been verified yet though. 
@@ -163,9 +163,9 @@ If you are interested in how these items were selected see the wiki page for [AD
    * [https://github.com/simeononsecurity/STIG-Compliant-Domain-Prep](https://github.com/simeononsecurity/STIG-Compliant-Domain-Prep)
 * ❔ Netwrix Tools - There are some issues some of the mods have with their business model and how they farm for emails with free tools.
    * **MOD NOTE -** Netwrix's business model leaves a lot to be desired and they really like to hound people. These are still useful tools but be warned, they'll bug you.
-   * ❔Netwrix Lockout Examiner - [https://www.netwrix.com/account\_lockout\_examiner.html](https://www.netwrix.com/account_lockout_examiner.html)
+   * ❔Netwrix Lockout Examiner - https://www.netwrix.com/account_lockout_examiner.html
    * ❔Netwrix Inactive User Tracker - [https://www.netwrix.com/netwrix\_inactive\_user\_tracker.html](https://www.netwrix.com/netwrix_inactive_user_tracker.html)
-   * ❔Netwrix Effective Permissions Reporting - [https://www.netwrix.com/netwrix\_effective\_permissions\_reporting\_tool.html](https://www.netwrix.com/netwrix_effective_permissions_reporting_tool.html)
+   * ❔Netwrix Effective Permissions Reporting - https://www.netwrix.com/netwrix_effective_permissions_reporting_tool.html
    * ❔Netwrix Password Expiration Notifier - [https://www.netwrix.com/netwrix\_password\_expiration\_notifier.html](https://www.netwrix.com/netwrix_password_expiration_notifier.html)
 * IS Decisions Tools - Similar story to Netwrix. Some decent tools that are used to farm for emails to spam.
    * ❔File Audit - [https://www.isdecisions.com/products/fileaudit/](https://www.isdecisions.com/products/fileaudit/)
