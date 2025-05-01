@@ -127,7 +127,7 @@ This link is a Beginner's Guide that provides resources and links to get you off
    * STIG Tools Download: [https://public.cyber.mil/stigs/downloads/](https://public.cyber.mil/stigs/downloads/)
    * Web View of STIGS: [https://cyber.trackr.live/stig](https://cyber.trackr.live/stig)
    * STIG GPOs - Preconfigured drop-in GPOs: https://public.cyber.mil/stigs/downloads/?_dl_facet_stigs=gpo
-     * Direct Download (updates quarterly):  [https://dl.dod.cyber.mil/wp-content/uploads/stigs/zip/U\_STIG\_GPO\_Package\_October\_2024.zip](https://dl.dod.cyber.mil/wp-content/uploads/stigs/zip/U_STIG_GPO_Package_October_2024.zip)
+     * Direct Download (updates quarterly):  https://dl.dod.cyber.mil/wp-content/uploads/stigs/zip/U_STIG_GPO_Package_April_2025.zip
    * List of Relevant STIGS - **NOTE: These are updated quarterly so the links below may be out-of-date quickly.**
       * Active Directory Domain STIG: [https://cyber.trackr.live/stig/Active\_Directory\_Domain/3/5](https://cyber.trackr.live/stig/Active_Directory_Domain/3/5)
       * Active Directory Forest STIG: [https://cyber.trackr.live/stig/Active\_Directory\_Forest/3/1](https://cyber.trackr.live/stig/Active_Directory_Forest/3/1)
