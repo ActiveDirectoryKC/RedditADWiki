@@ -9,6 +9,12 @@ There are a lot of resources for Active Directory, Entra, and other Identity pro
 
 >In addition, all r/ActiveDirectory wiki pages and resource posts (which are duplicates of the wiki pages) are stored on GitHub: [https://github.com/ActiveDirectoryKC/RedditADWiki](https://github.com/ActiveDirectoryKC/RedditADWiki)
 
+# Icons Reference
+* 💥- Resources that are guaranteed to trip the SOC monitoring and are likely to be detected by AV/EDR.  
+* ❗ - Resources that are going to trip SOC notifications. Coordinate with your SOC team.
+* ✨ - Resources that are highly recommended by the community and reviewed by Mods.
+* ❔ - Indicates that the resource is recommended by community members but not fully reviewed by mods.
+
 # BEGINNER'S GUIDE - New to AD? Start Here!
 This link is a Beginner's Guide that provides resources and links to get you off the ground on your AD journey!
 * ✨ AD Beginner's Guide - [https://www.reddit.com/r/activedirectory/wiki/AD-Resources/AD-Beginners-Guide](https://www.reddit.com/r/activedirectory/wiki/AD-Resources/AD-Beginners-Guide)
