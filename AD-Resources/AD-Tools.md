@@ -63,7 +63,7 @@ If you are interested in how these items were selected see the wiki page for [AD
 * ✨Locksmith - [https://github.com/jakehildreth/Locksmith](https://github.com/jakehildreth/Locksmith)
    * PKI Auditing and Checking Tool.
    * This is a must have when running PKI. Really good and there is a lot of active development on it (2025).
-* ✨BlueTuxedo - [[https://github.com/TrimarcJake/BlueTuxedo](https://github.com/jakehildreth/BlueTuxedo)
+* ✨BlueTuxedo - [[https://github.com/jakehildreth/BlueTuxedo](https://github.com/jakehildreth/BlueTuxedo)
    * "A tiny tool built to find an dfix common misconfigurations in AD-Integrated DNS..."
    * Finds stuff in DNS you may not find.
 * 💥BloodHound/SharpHound - Attack Path Analysis
@@ -75,16 +75,28 @@ If you are interested in how these items were selected see the wiki page for [AD
    * [https://github.com/lkarlslund/Adalanche](https://github.com/lkarlslund/Adalanche)
 * Trimarc AD Checks - Sean Metcalf (ADSecurity.org)
    * [https://www.hub.trimarcsecurity.com/post/securing-active-directory-performing-an-active-directory-security-review](https://www.hub.trimarcsecurity.com/post/securing-active-directory-performing-an-active-directory-security-review)
+   * Trimarc has been absorbed by TrustedSec so the links may change.
 * Invoke-TrimarcADChecks (Trimarc)
    * [https://github.com/Trimarc/Invoke-TrimarcADChecks](https://github.com/Trimarc/Invoke-TrimarcADChecks)
+   * Trimarc has been absorbed by TrustedSec so the links may change.
 * AD ACL Scanner - 
    * [https://managedpriv.com/project/ad-acl-scanner/](https://managedpriv.com/project/ad-acl-scanner/)
 * ScriptSentry 
   *  [https://github.com/techspence/ScriptSentry](https://github.com/techspence/ScriptSentry)
   *  Helps identify and find dangerous logon scripts.
 * ADeleginator
-  *  [https://github.com/techspence/ADeleginator](https://github.com/techspence/ADeleginator)
-  *  Helps identify and find dangerous AD trustee and resource delegations.
+   *  [https://github.com/techspence/ADeleginator](https://github.com/techspence/ADeleginator)
+   *  Helps identify and find dangerous AD trustee and resource delegations.
+*  ❔Harden-Sysvol
+   *  https://github.com/dakhama-mehdi/Harden-Sysvol
+   *  "HardenSysvol is an open-source tool developed by the HardenAD Community to complement Active Directory audit tools by analyzing GPOs and scripts on Sysvol folder."
+
+## Generic Scanning / Vulnerability Tools
+* Wazuh - Open Source SIEM/XDR Solution
+  * https://wazuh.com/
+  * AD-specific Configurations
+    * https://wazuh.com/blog/how-to-detect-active-directory-attacks-with-wazuh-part-1-of-2/
+    * https://wazuh.com/blog/how-to-detect-active-directory-attacks-with-wazuh-part-2/
 * Hardening Kitty - CIS benchmarking script
    * [https://github.com/scipag/HardeningKitty](https://github.com/scipag/HardeningKitty)
 * OpenVas - General Vulnerability Scanning Tool (Similar to Nessus or Rapid7)
@@ -112,13 +124,13 @@ If you are interested in how these items were selected see the wiki page for [AD
    * Command-line tool for modifying AD Objects. Predates PowerShell.
    * This will trip most AV/EDR solutions as the bad guys are using it because it is so good. That is why it isn't starred.
 * ✨ AsBuiltReport.Microsoft.AD
-   * [https://github.com/AsBuiltReport/AsBuiltReport.Microsoft.AD/issues](https://github.com/AsBuiltReport/AsBuiltReport.Microsoft.AD/issues)
+   * https://github.com/AsBuiltReport
    * This tool scans your directory and does tons of documentation for you. Also generates drawings of the environments to help with documentation.
      * ❔The drawings do not scale well with large environments.   
    * ❔This may trigger EDR/XDR auditing as it asked for a lot of information. This has not been verified yet though. 
 * Delinea (formerly Thycotic) Weak Password Finder 
    * [https://delinea.com/resources/weak-password-finder-tool-active-directory](https://delinea.com/resources/weak-password-finder-tool-active-directory)
-* Lithnet Access Manager
+* ✨Lithnet Access Manager
    * [https://github.com/lithnet/access-manager](https://github.com/lithnet/access-manager)
    * Allows for some LAPS/RapidLAPS administration.
    * The free version is limited on JIT roles but effectively as fully featured as the paid.
@@ -136,8 +148,9 @@ If you are interested in how these items were selected see the wiki page for [AD
    * [https://github.com/TrimarcJake/PowerPUG](https://github.com/jakehildreth/PowerPUG)
 * 💥 ADRecon - Extracts and combines various artifacts out of AD.
    * [https://github.com/adrecon/ADRecon](https://github.com/adrecon/ADRecon)
-* ❔ myADMonitor - Open-source AD change tracking tool
+* myADMonitor - Open-source AD change tracking tool
    * [https://github.com/mihemihe/myADMonitor](https://github.com/mihemihe/myADMonitor)
+   * **MOD NOTE:** Not something meant to be run for a long time, run it for awhile and turn it off. 
 * ManagedEsent - Tool for accessing the esent.dll which is the tool that drives the NTDS.DIT
    * [https://github.com/microsoft/ManagedEsent](https://github.com/microsoft/ManagedEsent)
 * ❔ Export-ActiveDirectoryVisioMap
@@ -152,13 +165,18 @@ If you are interested in how these items were selected see the wiki page for [AD
    * [https://github.com/simeononsecurity/STIG-Compliant-Domain-Prep](https://github.com/simeononsecurity/STIG-Compliant-Domain-Prep)
 * ❔ Netwrix Tools - There are some issues some of the mods have with their business model and how they farm for emails with free tools.
    * **MOD NOTE -** Netwrix's business model leaves a lot to be desired and they really like to hound people. These are still useful tools but be warned, they'll bug you.
-   * ❔Netwrix Lockout Examiner - [https://www.netwrix.com/account\_lockout\_examiner.html](https://www.netwrix.com/account_lockout_examiner.html)
+   * ❔Netwrix Lockout Examiner - https://www.netwrix.com/account_lockout_examiner.html
    * ❔Netwrix Inactive User Tracker - [https://www.netwrix.com/netwrix\_inactive\_user\_tracker.html](https://www.netwrix.com/netwrix_inactive_user_tracker.html)
-   * ❔Netwrix Effective Permissions Reporting - [https://www.netwrix.com/netwrix\_effective\_permissions\_reporting\_tool.html](https://www.netwrix.com/netwrix_effective_permissions_reporting_tool.html)
+   * ❔Netwrix Effective Permissions Reporting - https://www.netwrix.com/netwrix_effective_permissions_reporting_tool.html
    * ❔Netwrix Password Expiration Notifier - [https://www.netwrix.com/netwrix\_password\_expiration\_notifier.html](https://www.netwrix.com/netwrix_password_expiration_notifier.html)
 * IS Decisions Tools - Similar story to Netwrix. Some decent tools that are used to farm for emails to spam.
    * ❔File Audit - [https://www.isdecisions.com/products/fileaudit/](https://www.isdecisions.com/products/fileaudit/)
    * ❔User Lock - [https://www.isdecisions.com/products/userlock/](https://www.isdecisions.com/products/userlock/)
+ * ❔Restore from IFM (RIFM) 
+   * https://github.com/LDAPAngel/RIFM
+   * Tool that builds off of the DSInternals tools to aid in restoring AD from IFM.
+ * ❔HeathAD - AD Health Monitoring Tool (TBD)
+   * https://dakhama-mehdi.github.io/ADhealth/Example/HealthAD.html
 
 # Password Filters
 
@@ -166,7 +184,7 @@ If you are interested in how these items were selected see the wiki page for [AD
 
 * ✨PassFiltEx (Ryan Ries) - A simple password filter for AD that can block blacklisted passwords and character sequences. Similar to Entra Password Protection.
    * [https://github.com/ryanries/PassFiltEx](https://github.com/ryanries/PassFiltEx)
-* Lithnet Password Protection
+* ✨Lithnet Password Protection
    * [https://github.com/lithnet/ad-password-protection](https://github.com/lithnet/ad-password-protection)
    * A really good altnerative to other tools. (not starred because I haven't completed my testing)
 
@@ -196,4 +214,5 @@ If you are interested in how these items were selected see the wiki page for [AD
 * VulnerableAD - perfect for creating a vulnerable AD environment - [https://github.com/WazeHell/vulnerable-AD](https://github.com/WazeHell/vulnerable-AD)
 
 # CHANGE LOG
+* Updated 2024-04 - Included more tools from reddit and from issues. 
 * Created 2025-01

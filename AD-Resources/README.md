@@ -9,19 +9,22 @@ There are a lot of resources for Active Directory, Entra, and other Identity pro
 
 >In addition, all r/ActiveDirectory wiki pages and resource posts (which are duplicates of the wiki pages) are stored on GitHub: [https://github.com/ActiveDirectoryKC/RedditADWiki](https://github.com/ActiveDirectoryKC/RedditADWiki)
 
-**ICONS REFERENCE**
-
+# Icons Reference
 * 💥- Resources that are guaranteed to trip the SOC monitoring and are likely to be detected by AV/EDR.  
 * ❗ - Resources that are going to trip SOC notifications. Coordinate with your SOC team.
 * ✨ - Resources that are highly recommended by the community and reviewed by Mods.
 * ❔ - Indicates that the resource is recommended by community members but not fully reviewed by mods.
+
+# BEGINNER'S GUIDE - New to AD? Start Here!
+This link is a Beginner's Guide that provides resources and links to get you off the ground on your AD journey!
+* ✨ AD Beginner's Guide - [https://www.reddit.com/r/activedirectory/wiki/AD-Resources/AD-Beginners-Guide](https://www.reddit.com/r/activedirectory/wiki/AD-Resources/AD-Beginners-Guide)
 
 # Wiki Links
 
 * ✨ Wiki General - [https://www.reddit.com/r/activedirectory/wiki/index/](https://www.reddit.com/r/activedirectory/wiki/index/)
 * ✨ Wiki AD-Resources - [https://www.reddit.com/r/activedirectory/wiki/AD-Resources](https://www.reddit.com/r/activedirectory/wiki/AD-Resources)
 * ✨ Wiki MCM-Links - [https://www.reddit.com/r/activedirectory/wiki/AD-Resources/MCM-Links](https://www.reddit.com/r/activedirectory/wiki/AD-Resources/MCM-Links)
-* ✨ Wiki AD-Security Tools - [https://www.reddit.com/r/activedirectory/wiki/AD-Tools](https://www.reddit.com/r/activedirectory/wiki/AD-Tools)
+* ✨ Wiki AD-Security Tools - https://www.reddit.com/r/activedirectory/wiki/ad-resources/ad-tools/
 
 # Training and Certifications
 
@@ -59,7 +62,9 @@ There are a lot of resources for Active Directory, Entra, and other Identity pro
 # Third Party Training
 
 >**NOTE** We cannot vet all the 3rd party resources fully. Sometimes it is best effort. Courses that have gotten approval from the community will be tagged as such. If a course is not good, let us know.
-
+* Youtube - Only free courses will be put here. These will be from a variety of vendors/content creators.
+  * From Zero to Hero: A Beginner's Guide to Active Directory (Antisyphon + Black Hills)
+    * https://www.youtube.com/watch?v=XwOV7HpVLEA    
 * Udemy - The courses aren't cheap always but they run deals commonly.
    * AZ-800
       * [https://www.udemy.com/course/az-800-course-administering-windows-server-hybrid-core-inf](https://www.udemy.com/course/az-800-course-administering-windows-server-hybrid-core-inf)
@@ -90,12 +95,14 @@ There are a lot of resources for Active Directory, Entra, and other Identity pro
 
 >See the "MCM / MCSM (Microsoft Certified \[Solutions\] Master) Reading List" wiki page: [https://www.reddit.com/r/activedirectory/wiki/AD-Resources/MCM-Links](https://www.reddit.com/r/activedirectory/wiki/AD-Resources/MCM-Links)
 
-* AD Documentation: [https://docs.microsoft.com/en-us/windows-server/identity/ad-ds/active-directory-domain-services](https://docs.microsoft.com/en-us/windows-server/identity/ad-ds/active-directory-domain-services)
+* ✨AD Documentation: [https://docs.microsoft.com/en-us/windows-server/identity/ad-ds/active-directory-domain-services](https://docs.microsoft.com/en-us/windows-server/identity/ad-ds/active-directory-domain-services)
+* ✨AD Ports Reference: [https://learn.microsoft.com/en-us/troubleshoot/windows-server/active-directory/config-firewall-for-ad-domains-and-trusts](https://learn.microsoft.com/en-us/troubleshoot/windows-server/active-directory/config-firewall-for-ad-domains-and-trusts)
+* DS Internals AD Firewall Guidelines \[3rd Party\]: [https://firewall.dsinternals.com/ ](https://firewall.dsinternals.com/ )
 * Identity and Access Documentation: [https://docs.microsoft.com/en-us/windows-server/identity/identity-and-access](https://docs.microsoft.com/en-us/windows-server/identity/identity-and-access)
 * Active Directory Domain Services (Win32): [https://docs.microsoft.com/en-us/windows/win32/ad/active-directory-domain-services](https://docs.microsoft.com/en-us/windows/win32/ad/active-directory-domain-services)
 * About AD DS: [https://docs.microsoft.com/en-us/windows/win32/ad/about-active-directory-domain-services](https://docs.microsoft.com/en-us/windows/win32/ad/about-active-directory-domain-services)
 * Using AD DS: [https://docs.microsoft.com/en-us/windows/win32/ad/using-active-directory-domain-services](https://docs.microsoft.com/en-us/windows/win32/ad/using-active-directory-domain-services)
-* MS-ADTS: Active Directory Technical Specification - "openspecs": [https://docs.microsoft.com/en-us/openspecs/windows\_protocols/ms-adts](https://docs.microsoft.com/en-us/openspecs/windows_protocols/ms-adts)
+* ✨MS-ADTS: Active Directory Technical Specification - "openspecs": [https://docs.microsoft.com/en-us/openspecs/windows\_protocols/ms-adts](https://docs.microsoft.com/en-us/openspecs/windows_protocols/ms-adts)
 * **LEGACY Active Directory Collection:** [https://docs.microsoft.com/en-us/previous-versions/windows/it-pro/windows-server-2003/cc780036(v=ws.10)](https://docs.microsoft.com/en-us/previous-versions/windows/it-pro/windows-server-2003/cc780036(v=ws.10))
 * **LEGACY Active Directory:** [https://docs.microsoft.com/en-us/previous-versions/windows/it-pro/windows-2000-server/cc977985(v=technet.10)?redirectedfrom=MSDN](https://docs.microsoft.com/en-us/previous-versions/windows/it-pro/windows-2000-server/cc977985(v=technet.10)?redirectedfrom=MSDN)
 
@@ -119,20 +126,24 @@ There are a lot of resources for Active Directory, Entra, and other Identity pro
 * DISA STIGS. These are primarily used by the DoD and other US government agencies. They are similar to the CIS Benchmarks, but easier to access. They even include a free scanning tool.
    * STIG Tools Download: [https://public.cyber.mil/stigs/downloads/](https://public.cyber.mil/stigs/downloads/)
    * Web View of STIGS: [https://cyber.trackr.live/stig](https://cyber.trackr.live/stig)
-   * STIG GPOs - Preconfigured drop-in GPOs: [https://dl.dod.cyber.mil/wp-content/uploads/stigs/zip/U\_STIG\_GPO\_Package\_October\_2024.zip](https://dl.dod.cyber.mil/wp-content/uploads/stigs/zip/U_STIG_GPO_Package_October_2024.zip)
+   * STIG GPOs - Preconfigured drop-in GPOs: https://public.cyber.mil/stigs/downloads/?_dl_facet_stigs=gpo
+     * Direct Download (updates quarterly):  [https://dl.dod.cyber.mil/wp-content/uploads/stigs/zip/U\_STIG\_GPO\_Package\_October\_2024.zip](https://dl.dod.cyber.mil/wp-content/uploads/stigs/zip/U_STIG_GPO_Package_October_2024.zip)
    * List of Relevant STIGS - **NOTE: These are updated quarterly so the links below may be out-of-date quickly.**
       * Active Directory Domain STIG: [https://cyber.trackr.live/stig/Active\_Directory\_Domain/3/5](https://cyber.trackr.live/stig/Active_Directory_Domain/3/5)
       * Active Directory Forest STIG: [https://cyber.trackr.live/stig/Active\_Directory\_Forest/3/1](https://cyber.trackr.live/stig/Active_Directory_Forest/3/1)
-      * Windows Server Domain Name Service (DNS): [https://cyber.trackr.live/stig/Windows\_Server\_Domain\_Name\_System\_%28DNS%29/2/2](https://cyber.trackr.live/stig/Windows_Server_Domain_Name_System_%28DNS%29/2/2)
+      * Windows Server Domain Name Service (DNS): https://cyber.trackr.live/stig/Windows_Server_Domain_Name_System_%28DNS%29/2/3
+      * Windows DNS: https://cyber.trackr.live/stig/Windows_DNS/4/1.19
       * Windows Server 2022 DNS: [https://cyber.trackr.live/stig/Windows\_Server\_2022\_DNS/1/0.1](https://cyber.trackr.live/stig/Windows_Server_2022_DNS/1/0.1)
       * Windows Server 2022: [https://cyber.trackr.live/stig/Windows\_Server\_2022/2/2](https://cyber.trackr.live/stig/Windows_Server_2022/2/2)
+        * NOTE: Use these settings for 2025 until an official release comes out.
       * Windows Server 2019: [https://cyber.trackr.live/stig/Windows\_Server\_2019/3/2](https://cyber.trackr.live/stig/Windows_Server_2019/3/2)
       * Windows Server 2016: [https://cyber.trackr.live/stig/Windows\_Server\_2016/2/9](https://cyber.trackr.live/stig/Windows_Server_2016/2/9)
+      * Windows PAW: https://cyber.trackr.live/stig/Windows_PAW/3/1
       * Windows Defender Firewall with Advanced Security: [https://cyber.trackr.live/stig/Windows\_Defender\_Firewall\_with\_Advanced\_Security/2/2](https://cyber.trackr.live/stig/Windows_Defender_Firewall_with_Advanced_Security/2/2)
       * Defender Antivirus: [https://cyber.trackr.live/stig/Defender\_Antivirus/2/4](https://cyber.trackr.live/stig/Defender_Antivirus/2/4)
       * Edge: [https://cyber.trackr.live/stig/Edge/2/2](https://cyber.trackr.live/stig/Edge/2/2)
-      * Windows 11: [https://cyber.trackr.live/stig/Windows\_11/2/2](https://cyber.trackr.live/stig/Windows_11/2/2)
-      * Windows 10: [https://cyber.trackr.live/stig/Windows\_10/3/2](https://cyber.trackr.live/stig/Windows_10/3/2)
+      * Windows 11: https://cyber.trackr.live/stig/Windows_11/2/3
+      * Windows 10: https://cyber.trackr.live/stig/Windows_10/3/4
 * Microsoft Security Baselines
    * Microsoft Security Baselines Download:
       * [https://learn.microsoft.com/en-us/windows/security/operating-system-security/device-management/windows-security-configuration-framework/windows-security-baselines](https://learn.microsoft.com/en-us/windows/security/operating-system-security/device-management/windows-security-configuration-framework/windows-security-baselines)
@@ -160,10 +171,11 @@ There are a lot of resources for Active Directory, Entra, and other Identity pro
 * ❗Bloodhound (SpecterOps) \[WILL FLAG AV\]
    * [https://github.com/BloodHoundAD/BloodHound](https://github.com/BloodHoundAD/BloodHound)
 * Invoke-TrimarcADChecks (Trimarc) - [https://github.com/Trimarc/Invoke-TrimarcADChecks](https://github.com/Trimarc/Invoke-TrimarcADChecks)
+  * Trimarc was aquired by TrustedSec so this may change at some point.
 * ✨Locksmith - [https://github.com/jakehildreth/Locksmith](https://github.com/jakehildreth/Locksmith)
    * PKI Auditing and Checking Tool.
    * This is a must have when running PKI. Really good and there is a lot of active development on it (2025).
-* ✨BlueTuxedo - [[https://github.com/TrimarcJake/BlueTuxedo](https://github.com/jakehildreth/BlueTuxedo)
+* ✨BlueTuxedo - https://github.com/jakehildreth/BlueTuxedo
    * "A tiny tool built to find an dfix common misconfigurations in AD-Integrated DNS..."
    * Finds stuff in DNS you may not find.
 
@@ -193,6 +205,7 @@ There are a lot of resources for Active Directory, Entra, and other Identity pro
 **Company-centric Blogs** \- These blogs are run by specific companies who tend to include information about themselves along with the information. This doesn't invalidate the information, but they warranted a separate category for transparency.
 
 * [https://www.hub.trimarcsecurity.com/posts](https://www.hub.trimarcsecurity.com/posts)
+  * Trimarc was aquired by TrustedSec so this may change at some point.
 * [https://specterops.io/blog/](https://specterops.io/blog/)
 * [https://www.ravenswoodtechnology.com/blog/](https://www.ravenswoodtechnology.com/blog/)
 * [https://www.semperis.com/blog/](https://www.semperis.com/blog/)
@@ -227,8 +240,10 @@ There are a lot of resources for Active Directory, Entra, and other Identity pro
 * RunAs Radio
    * [https://runasradio.com/](https://runasradio.com/)
 * Trimarc Happy Hour
+   * Trimarc was aquired by TrustedSec so this may change at some point.
    * [https://www.hub.trimarcsecurity.com/video](https://www.hub.trimarcsecurity.com/video)
 
 # CHANGE LOG
+* Updated 2025-04 with new links - Firewall Links and STIG Updates
 * Updated 2025-02 with link updates. 
 * Updated 2025-01 with new links, more training options, and more tools. Also created off-reddit wiki page for tracking the details.**

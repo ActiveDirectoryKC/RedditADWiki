@@ -86,7 +86,9 @@ Most of the recent additions will be marked with \*\*.
 * USN and USN Rollback [https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-server-2008-r2-and-2008/dd363553(v=ws.10)#usn-and-usn-rollback](https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-server-2008-r2-and-2008/dd363553(v=ws.10)#usn-and-usn-rollback)
 * Distributed Link Tracking on Windows-based Domain Controllers [https://learn.microsoft.com/en-US/troubleshoot/windows-server/backup-and-storage/distributed-link-tracking-on-domain-controller](https://learn.microsoft.com/en-US/troubleshoot/windows-server/backup-and-storage/distributed-link-tracking-on-domain-controller)
 * Active Directory Schema Technical Reference [https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-server-2003/cc759402(v=ws.10)](https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-server-2003/cc759402(v=ws.10))
-* Infrastructure Planning and Design Guides for Windows Server 2008 [https://www.microsoft.com/downloads/details.aspx?familyid=ad3921fb-8224-4681-9064-075fdf042b0c&displaylang=en](https://www.microsoft.com/downloads/details.aspx?familyid=ad3921fb-8224-4681-9064-075fdf042b0c&displaylang=en)
+* Infrastructure Planning and Design Guides for Windows Server 2008
+  * (All Guides Download) https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-server-2003/cc737786(v=ws.10)
+  * [Internet Archive] https://web.archive.org/web/20100430193435/https://www.microsoft.com/downloads/details.aspx?familyid=ad3921fb-8224-4681-9064-075fdf042b0c&displaylang=en#filelist
 * Active Directory and Active Directory Domain Services Port Requirements [https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-server-2008-R2-and-2008/dd772723(v=ws.10)](https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-server-2008-R2-and-2008/dd772723(v=ws.10))
 * DCDIAG Technical Reference: What does DCDIAG Actually... do? [https://techcommunity.microsoft.com/t5/ask-the-directory-services-team/what-does-dcdiag-actually-amp-8230-do/ba-p/399023](https://techcommunity.microsoft.com/t5/ask-the-directory-services-team/what-does-dcdiag-actually-amp-8230-do/ba-p/399023) [https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-server-2012-r2-and-2012/cc731968(v=ws.11)](https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-server-2012-r2-and-2012/cc731968(v=ws.11))
 * High Water Mark and Up To Dateness Vector (These are the updates you are looking for) [https://techcommunity.microsoft.com/t5/microsoft-entra-azure-ad-blog/these-are-the-updates-you-are-looking-for/ba-p/243188](https://techcommunity.microsoft.com/t5/microsoft-entra-azure-ad-blog/these-are-the-updates-you-are-looking-for/ba-p/243188)
@@ -274,7 +276,7 @@ Most of the recent additions will be marked with \*\*.
 * AD Forest Recovery - Devising a custom forest recovery plan \*\* [https://learn.microsoft.com/en-us/windows-server/identity/ad-ds/manage/ad-forest-recovery-devising-a-plan](https://learn.microsoft.com/en-us/windows-server/identity/ad-ds/manage/ad-forest-recovery-devising-a-plan)
 * AD Forest Recovery - Steps for Recovery \*\* [https://learn.microsoft.com/en-us/windows-server/identity/ad-ds/manage/ad-forest-recovery-steps-for-restoring](https://learn.microsoft.com/en-us/windows-server/identity/ad-ds/manage/ad-forest-recovery-steps-for-restoring)
 * AD Forest Recovery - Identify the Problem \*\* [https://learn.microsoft.com/en-us/windows-server/identity/ad-ds/manage/ad-forest-recovery-identify-the-problem](https://learn.microsoft.com/en-us/windows-server/identity/ad-ds/manage/ad-forest-recovery-identify-the-problem)
-* AD Forest Recovery - Determine How to Recover \*\* [https://learn.microsoft.com/en-us/windows-server/identity/ad-ds/manage/ad-forest-recovery-determine-how-to-recover](https://learn.microsoft.com/en-us/windows-server/identity/ad-ds/manage/ad-forest-recovery-determine-how-to-recover)
+* AD Forest Recovery - Determine How to Recover \*\* https://learn.microsoft.com/en-us/windows-server/identity/ad-ds/manage/forest-recovery-guide/ad-forest-recovery-determine-how-to-recover
 * AD Forest Recovery - Perform Initial Recovery \*\* [https://learn.microsoft.com/en-us/windows-server/identity/ad-ds/manage/ad-forest-recovery-perform-initial-recovery](https://learn.microsoft.com/en-us/windows-server/identity/ad-ds/manage/ad-forest-recovery-perform-initial-recovery)
 * AD Forest Recovery - Procedures \*\* [https://learn.microsoft.com/en-us/windows-server/identity/ad-ds/manage/ad-forest-recovery-procedures](https://learn.microsoft.com/en-us/windows-server/identity/ad-ds/manage/ad-forest-recovery-procedures)
 * AD Forest Recovery - Frequently Asked Questions \*\* [https://learn.microsoft.com/en-us/windows-server/identity/ad-ds/manage/ad-forest-recovery-faq](https://learn.microsoft.com/en-us/windows-server/identity/ad-ds/manage/ad-forest-recovery-faq)
@@ -432,14 +434,7 @@ Most of the recent additions will be marked with \*\*.
 * DFS Consolidation of a Standalone Namespace to a Domain-Based Namespace [https://techcommunity.microsoft.com/t5/ask-the-directory-services-team/distributed-file-system-consolidation-of-a-standalone-namespace/ba-p/400203](https://techcommunity.microsoft.com/t5/ask-the-directory-services-team/distributed-file-system-consolidation-of-a-standalone-namespace/ba-p/400203)
 
 # DNS and Name Resolution
-
 * How DNS Works [https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-server-2003/cc772774(v=ws.10)](https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-server-2003/cc772774(v=ws.10))
-* DNS Architecture
-* DNS Protocol
-* DNS Physical Structure
-* DNS Processes and Intentions
-* Network Ports Used by DNS
-* Related Information
 * DNS Technical Reference [https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-server-2003/cc779926(v=ws.10)](https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-server-2003/cc779926(v=ws.10))
 * What is DNS? [https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-server-2003/cc787921(v=ws.10)](https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-server-2003/cc787921(v=ws.10))
 * How DNS Works [https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-server-2003/cc772774(v=ws.10)](https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-server-2003/cc772774(v=ws.10))
@@ -449,12 +444,6 @@ Most of the recent additions will be marked with \*\*.
 * How DNS Support for Active Directory Works [https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-server-2003/cc759550(v=ws.10)](https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-server-2003/cc759550(v=ws.10))
 * DNS Support for Active Directory Tools and Settings [https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-server-2003/cc738266(v=ws.10)](https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-server-2003/cc738266(v=ws.10))
 * Windows 2000 DNS [https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-2000-server/bb742582(v=technet.10)](https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-2000-server/bb742582(v=technet.10))
-* Introduction
-* DNS Fundamentals
-* New Features of the Windows 2000 DNS
-* Designing a DNS Namespace for the Active Directory
-* Summary
-* Glossary
 * Global Names Zone Deployment Guide (docx) [https://www.microsoft.com/en-us/download/details.aspx?id=5011](https://www.microsoft.com/en-us/download/details.aspx?id=5011)
 * Deployment and Operation of Active Directory Domains that are configured by using Single-Label DNS Names \*\* [https://learn.microsoft.com/en-us/troubleshoot/windows-server/identity/deployment-operation-ad-domains](https://learn.microsoft.com/en-us/troubleshoot/windows-server/identity/deployment-operation-ad-domains)
 * Description of the netmask ordering feature and the round robin feature in Windows Server 2003 DNS [https://learn.microsoft.com/en-US/troubleshoot/windows-server/networking/how-to-use-netmask-ordering-round-robin-feature](https://learn.microsoft.com/en-US/troubleshoot/windows-server/networking/how-to-use-netmask-ordering-round-robin-feature)
@@ -471,7 +460,7 @@ Most of the recent additions will be marked with \*\*.
 * Install a Replica Windows Server 2012 Domain Controller in an Existing Domain [https://learn.microsoft.com/en-us/windows-server/identity/ad-ds/deploy/install-a-replica-windows-server-2012-domain-controller-in-an-existing-domain--level-200-](https://learn.microsoft.com/en-us/windows-server/identity/ad-ds/deploy/install-a-replica-windows-server-2012-domain-controller-in-an-existing-domain--level-200-)
 * Install a New Windows Server 2012 Active Directory Child or Tree Domain (Level 200) [https://learn.microsoft.com/en-us/windows-server/identity/ad-ds/deploy/install-a-new-windows-server-2012-active-directory-child-or-tree-domain--level-200-](https://learn.microsoft.com/en-us/windows-server/identity/ad-ds/deploy/install-a-new-windows-server-2012-active-directory-child-or-tree-domain--level-200-)
 * Install a Windows Server 2012 Active Directory Read-Only Domain Controller (RODC) [https://learn.microsoft.com/en-us/windows-server/identity/ad-ds/deploy/install-a-new-windows-server-2012-active-directory-forest--level-200-](https://learn.microsoft.com/en-us/windows-server/identity/ad-ds/deploy/install-a-new-windows-server-2012-active-directory-forest--level-200-)
-* IFM \*\* [https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-server-2012-r2-and-2012/cc732530(v=ws.11)](https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-server-2012-r2-and-2012/cc732530(v=ws.11))
+* IFM \*\* [https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-server-2012-r2-and-2012/cc732530(v=ws.11)](https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-server-2012-r2-and-2012/cc732530(v=ws.11)) 
 * Installing an Additional Domain Controller by Using IFM [https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-server-2008-R2-and-2008/cc816722(v=ws.10)](https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-server-2008-R2-and-2008/cc816722(v=ws.10))
 * Create Installation Media by Using NTDSUtil [https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-server-2008-r2-and-2008/cc816574(v=ws.10)](https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-server-2008-r2-and-2008/cc816574(v=ws.10))
 * Install Additional Domain Controller Using Unattend Parameters [https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-server-2008-r2-and-2008/cc794742(v=ws.10)](https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-server-2008-r2-and-2008/cc794742(v=ws.10))
@@ -483,39 +472,15 @@ Most of the recent additions will be marked with \*\*.
 * Step-by-Step: Active Directory Migration from Windows Server 2008 R2 to Windows Server 2022 \*\* [https://techcommunity.microsoft.com/t5/itops-talk-blog/step-by-step-guide-active-directory-migration-from-windows/ba-p/2888117](https://techcommunity.microsoft.com/t5/itops-talk-blog/step-by-step-guide-active-directory-migration-from-windows/ba-p/2888117)
 * Support Policy and Known Issues for Active Directory Migration Tool \*\* [https://learn.microsoft.com/en-us/troubleshoot/windows-server/identity/support-policy-and-known-issues-for-admt](https://learn.microsoft.com/en-us/troubleshoot/windows-server/identity/support-policy-and-known-issues-for-admt)
 * ADMT Guide: Migrating and Restructuring Active Directory Domains [https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-server-2008-R2-and-2008/cc974332(v=ws.10)](https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-server-2008-R2-and-2008/cc974332(v=ws.10))
-* ADMT Versions
-* Best Practices for Active Directory Migration
-* Interforest AD Migration Restructure
-* Intraforest AD Migration Restructure
-* Appendix: Advanced Procedures
-* Troubleshooting ADMT
-* Additional Resources
 * ADMT 3.2 Download [https://www.microsoft.com/en-us/download/details.aspx?id=56570](https://www.microsoft.com/en-us/download/details.aspx?id=56570)
 
 # Group Policy
 
-# Core Group Policy Technical Reference
-
 * What is Core Group Policy [https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-server-2003/cc779077(v=ws.10)](https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-server-2003/cc779077(v=ws.10))
-* Core Group Policy Architecture
-* Core Group Policy Physical Structure
-* Core Group Policy Processes and Interactions
-* Network Ports Used by Group Policy
-* Related Information
 * How Core Group Policy Works [https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-server-2003/cc784268(v=ws.10)](https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-server-2003/cc784268(v=ws.10))
-* Change and Configuration Management
-* Core Group Policy Scenarios
-* Core Group Policy Dependencies
-* Related Information
 * Core Group Policy Tools and Settings [https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-server-2003/cc784165(v=ws.10)](https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-server-2003/cc784165(v=ws.10))
-* Group Policy Tools
-* Group Policy Settings
-* Group Policy WMI Classes
-* Related Information
 
-# Group Policy Management Console Technical Reference
-
-[https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-server-2003/cc778172(v=ws.10)](https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-server-2003/cc778172(v=ws.10))
+* Group Policy Management Console Technical Reference - [https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-server-2003/cc778172(v=ws.10)](https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-server-2003/cc778172(v=ws.10))
 
 * What is Group Policy Management Console [https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-server-2003/cc739431(v=ws.10)](https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-server-2003/cc739431(v=ws.10))
 * How Group Policy Management Console Works [https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-server-2003/cc756808(v=ws.10)](https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-server-2003/cc756808(v=ws.10))
@@ -528,8 +493,6 @@ Most of the recent additions will be marked with \*\*.
 * Circle Back to Loopback (Part 1) [https://techcommunity.microsoft.com/t5/ask-the-directory-services-team/circle-back-to-loopback/ba-p/400212](https://techcommunity.microsoft.com/t5/ask-the-directory-services-team/circle-back-to-loopback/ba-p/400212)
 * Back to the Loopback: Troubleshooting Group Policy loopback processing (Part 2) [https://techcommunity.microsoft.com/t5/ask-the-directory-services-team/back-to-the-loopback-troubleshooting-group-policy-loopback/ba-p/400218](https://techcommunity.microsoft.com/t5/ask-the-directory-services-team/back-to-the-loopback-troubleshooting-group-policy-loopback/ba-p/400218)
 * Loopback Processing of Group Policy \*\* [https://learn.microsoft.com/en-us/troubleshoot/windows-server/group-policy/loopback-processing-of-group-policy](https://learn.microsoft.com/en-us/troubleshoot/windows-server/group-policy/loopback-processing-of-group-policy)
-* GPO Central Store
-* How to Create the Central Store for Group Policy Administrative Template files in Windows Vista (all versions) \*\* [https://learn.microsoft.com/en-us/troubleshoot/windows-server/group-policy/create-central-store-domain-controller?source=recommendations](https://learn.microsoft.com/en-us/troubleshoot/windows-server/group-policy/create-central-store-domain-controller?source=recommendations)
 * Group Policy Components [https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-server-2003/cc776182(v=ws.10)](https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-server-2003/cc776182(v=ws.10))
 * Troubleshooting Group Policy Using Event Logs [https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-vista/cc749336(v=ws.10)](https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-vista/cc749336(v=ws.10))
 * Interpreting Userenv Log Files [https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-server-2003/cc786775(v=ws.10)](https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-server-2003/cc786775(v=ws.10))
@@ -541,6 +504,9 @@ Most of the recent additions will be marked with \*\*.
 * Maintaining Group Policy [https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-server-2003/cc736987(v=ws.10)](https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-server-2003/cc736987(v=ws.10))
 * Additional Resources for Group Policy Infrastructure [https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-server-2003/cc780744(v=ws.10)](https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-server-2003/cc780744(v=ws.10))
 * Group Policy Troubleshooting Documentation [https://learn.microsoft.com/en-us/troubleshoot/windows-server/group-policy/group-policy-overview](https://learn.microsoft.com/en-us/troubleshoot/windows-server/group-policy/group-policy-overview)
+
+## GPO Central Store
+* How to Create the Central Store for Group Policy Administrative Template files in Windows Vista (all versions) \*\* [https://learn.microsoft.com/en-us/troubleshoot/windows-server/group-policy/create-central-store-domain-controller?source=recommendations](https://learn.microsoft.com/en-us/troubleshoot/windows-server/group-policy/create-central-store-domain-controller?source=recommendations)
 
 # Lightweight Directory Services (AD LDS)
 
@@ -600,11 +566,13 @@ Most of the recent additions will be marked with \*\*.
 * View and Set LDAP Policy in Active Directory using NTDSUtil [https://learn.microsoft.com/en-us/troubleshoot/windows-server/identity/view-set-ldap-policy-using-ntdsutil](https://learn.microsoft.com/en-us/troubleshoot/windows-server/identity/view-set-ldap-policy-using-ntdsutil)
 * How to configure the WIndows Time Service against a large time offset [https://learn.microsoft.com/en-US/troubleshoot/windows-server/identity/configure-w32ime-against-huge-time-offset](https://learn.microsoft.com/en-US/troubleshoot/windows-server/identity/configure-w32ime-against-huge-time-offset)
 * Bridgehead Server Selection [https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-server-2008-R2-and-2008/ff800799(v=ws.10)](https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-server-2008-R2-and-2008/ff800799(v=ws.10))
-* Change Notification
+
+## Change Notification
 * Active Directory Replication: Change Notification and You \*\* [https://learn.microsoft.com/en-us/archive/blogs/canberrapfe/active-directory-replication-change-notification-you](https://learn.microsoft.com/en-us/archive/blogs/canberrapfe/active-directory-replication-change-notification-you)
 * Configuring Change Notification on a MANUALLY created Replication Partner [https://techcommunity.microsoft.com/t5/ask-the-directory-services-team/configuring-change-notification-on-a-manually-created/ba-p/400188](https://techcommunity.microsoft.com/t5/ask-the-directory-services-team/configuring-change-notification-on-a-manually-created/ba-p/400188)
 * Managing Sites \*\* [https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-2000-server/bb727051(v=technet.10)](https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-2000-server/bb727051(v=technet.10))
-* KCC and ISTG
+  
+## KCC and ISTG
 * Sites Sites Everywhere \*\* [https://learn.microsoft.com/en-us/archive/blogs/askds/sites-sites-everywhere](https://learn.microsoft.com/en-us/archive/blogs/askds/sites-sites-everywhere)
 * ISTG Selection \*\* [https://learn.microsoft.com/en-us/openspecs/windows\_protocols/ms-adts/9681607e-617f-4059-85e1-f7486a069c8d](https://learn.microsoft.com/en-us/openspecs/windows_protocols/ms-adts/9681607e-617f-4059-85e1-f7486a069c8d)
 * Inter-Site-Topology-Generator Attribute \*\* [https://learn.microsoft.com/en-us/windows/win32/adschema/a-intersitetopologygenerator](https://learn.microsoft.com/en-us/windows/win32/adschema/a-intersitetopologygenerator)
@@ -620,7 +588,7 @@ Most of the recent additions will be marked with \*\*.
 
 # AD Sites and Services **
 
-(Expanded on the MSCM "AD Sites and Services" Section with relevent links)
+>Expanded on the MSCM "AD Sites and Services" Section with relevent links
 
 * Active Directory Replication Concepts (duplicate of above) [https://learn.microsoft.com/en-us/windows-server/identity/ad-ds/get-started/replication/active-directory-replication-concepts](https://learn.microsoft.com/en-us/windows-server/identity/ad-ds/get-started/replication/active-directory-replication-concepts)
 * Designing the Site Topology [https://learn.microsoft.com/en-us/windows-server/identity/ad-ds/plan/designing-the-site-topology](https://learn.microsoft.com/en-us/windows-server/identity/ad-ds/plan/designing-the-site-topology)
@@ -635,12 +603,12 @@ Most of the recent additions will be marked with \*\*.
 * How to configure a firewall for Active Directory domains and trusts [https://learn.microsoft.com/en-us/troubleshoot/windows-server/identity/config-firewall-for-ad-domains-and-trusts](https://learn.microsoft.com/en-us/troubleshoot/windows-server/identity/config-firewall-for-ad-domains-and-trusts)
 * How to restirct Active Directory RPC traffic to a specific port [https://learn.microsoft.com/en-us/troubleshoot/windows-server/identity/restrict-ad-rpc-traffic-to-specific-port](https://learn.microsoft.com/en-us/troubleshoot/windows-server/identity/restrict-ad-rpc-traffic-to-specific-port)
 
-# What's New Per Server Version
-
-# Server 2016+ Features **
-
-No new features related to AD have been released (at least publicly) to server versions past 2016.
-
+# New Features Per Server Version
+## Server 2025 **
+  * TBD... 2025-05/06
+## Server 2019/2022
+  * These versions of Windows server had minimal, if any changes to Active Directory.
+## Server 2016 Features **
 * What's New In Active Directory Domain Services for Windows Server 2016  \*\* [https://learn.microsoft.com/en-us/windows-server/identity/whats-new-active-directory-domain-services](https://learn.microsoft.com/en-us/windows-server/identity/whats-new-active-directory-domain-services)
 * Privileged Access Management Optional Feature \*\* [https://learn.microsoft.com/en-us/openspecs/windows\_protocols/ms-adts/d079eee8-1bac-4b03-86e4-506a21450905](https://learn.microsoft.com/en-us/openspecs/windows_protocols/ms-adts/d079eee8-1bac-4b03-86e4-506a21450905)
 * What is a device Identity \*\* [https://learn.microsoft.com/en-us/azure/active-directory/devices/overview](https://learn.microsoft.com/en-us/azure/active-directory/devices/overview)
@@ -650,69 +618,66 @@ No new features related to AD have been released (at least publicly) to server v
 * Streamlined Migration of FRS to DFSR SYSVOL [https://techcommunity.microsoft.com/t5/storage-at-microsoft/streamlined-migration-of-frs-to-dfsr-sysvol/ba-p/425405](https://techcommunity.microsoft.com/t5/storage-at-microsoft/streamlined-migration-of-frs-to-dfsr-sysvol/ba-p/425405)
 * SMBv1 is not installed by default in Windows 10 version 1709, Windows Server version 1709 and later versions [https://learn.microsoft.com/en-us/windows-server/storage/file-server/troubleshoot/smbv1-not-installed-by-default-in-windows](https://learn.microsoft.com/en-us/windows-server/storage/file-server/troubleshoot/smbv1-not-installed-by-default-in-windows)
 
-# Server 2012/R2 Features
-
+## Server 2012/R2 Features
 * Whats new in Active Directory in Windows Server (2012/R2) \*\* [https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-server-2012-r2-and-2012/dn268294(v=ws.11)](https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-server-2012-r2-and-2012/dn268294(v=ws.11))
 * What's new in Active Directory Domain Services in Server 2012 \*\* [https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-server-2012-r2-and-2012/hh831477(v=ws.11)](https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-server-2012-r2-and-2012/hh831477(v=ws.11))
 * How many Windows Server 2012 domain controllers do I need initially and where should I put them? [https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/how-many-windows-server-2012-domain-controllers-do-i-need/ba-p/255743](https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/how-many-windows-server-2012-domain-controllers-do-i-need/ba-p/255743)
 * Introducing the First Windows Server 2012 Domain Controller (Part 1) \*\* [https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/introducing-the-first-windows-server-2012-domain-controller-part/ba-p/255739](https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/introducing-the-first-windows-server-2012-domain-controller-part/ba-p/255739)
 * Introducing the First Windows Server 2012 Domain Controller (part 2) \*\* [https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/introducing-the-first-windows-server-2012-domain-controller-part/ba-p/255742](https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/introducing-the-first-windows-server-2012-domain-controller-part/ba-p/255742)
-* Introduction to AD Directory Replicaiton and Topology Management Using Windows PowerShell [https://learn.microsoft.com/en-us/windows-server/identity/ad-ds/manage/powershell/introduction-to-active-directory-replication-and-topology-management-using-windows-powershell](https://learn.microsoft.com/en-us/windows-server/identity/ad-ds/manage/powershell/introduction-to-active-directory-replication-and-topology-management-using-windows-powershell) \-level-100-
+* Introduction to AD Directory Replicaiton and Topology Management Using Windows PowerShell - https://learn.microsoft.com/en-us/windows-server/identity/ad-ds/manage/powershell/introduction-to-active-directory-replication-and-topology-management-using-windows-powershell--level-100-
 * Group Managed Service Accounts (gMSA)
-* Group Managed Service Accounts Overview [https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-server-2012-R2-and-2012/hh831782(v=ws.11)](https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-server-2012-R2-and-2012/hh831782(v=ws.11))
-* Getting Started with Group Managed Service Accounts [https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-server-2012-R2-and-2012/jj128431(v=ws.11)](https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-server-2012-R2-and-2012/jj128431(v=ws.11))
-* Windows Server 2012: Group Managed Service Accounts [https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/windows-server-2012-group-managed-service-accounts/ba-p/255910](https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/windows-server-2012-group-managed-service-accounts/ba-p/255910)
+  * Group Managed Service Accounts Overview [https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-server-2012-R2-and-2012/hh831782(v=ws.11)](https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-server-2012-R2-and-2012/hh831782(v=ws.11))
+  * Getting Started with Group Managed Service Accounts [https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-server-2012-R2-and-2012/jj128431(v=ws.11)](https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-server-2012-R2-and-2012/jj128431(v=ws.11))
+  * Windows Server 2012: Group Managed Service Accounts [https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/windows-server-2012-group-managed-service-accounts/ba-p/255910](https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/windows-server-2012-group-managed-service-accounts/ba-p/255910)
 * RID Protection
-* Managing RID Issuance [https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-server-2012-r2-and-2012/jj574229(v=ws.11)](https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-server-2012-r2-and-2012/jj574229(v=ws.11))
-* Managing RID Issuance in Windows Server 2012 [https://techcommunity.microsoft.com/t5/ask-the-directory-services-team/managing-rid-issuance-in-windows-server-2012/ba-p/400076](https://techcommunity.microsoft.com/t5/ask-the-directory-services-team/managing-rid-issuance-in-windows-server-2012/ba-p/400076)
+*   Managing RID Issuance [https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-server-2012-r2-and-2012/jj574229(v=ws.11)](https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-server-2012-r2-and-2012/jj574229(v=ws.11))
+*   Managing RID Issuance in Windows Server 2012 [https://techcommunity.microsoft.com/t5/ask-the-directory-services-team/managing-rid-issuance-in-windows-server-2012/ba-p/400076](https://techcommunity.microsoft.com/t5/ask-the-directory-services-team/managing-rid-issuance-in-windows-server-2012/ba-p/400076)
 * DC Cloning and Safeguarding
-* Introduction to Active Directory Domain Services (AD DS) Virtualization (Level 100) [https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-server-2012-r2-and-2012/hh831734(v=ws.11)](https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-server-2012-r2-and-2012/hh831734(v=ws.11))
-* Virtual Domain Controller Cloning in Windows Server 2012 [https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/virtual-domain-controller-cloning-in-windows-server-2012/ba-p/255786](https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/virtual-domain-controller-cloning-in-windows-server-2012/ba-p/255786)
-* Why is a virtual machine generation ID needed? (docx) [https://download.microsoft.com/download/3/1/C/31CFC307-98CA-4CA5-914C-D9772691E214/VirtualMachineGenerationID.docx](https://download.microsoft.com/download/3/1/C/31CFC307-98CA-4CA5-914C-D9772691E214/VirtualMachineGenerationID.docx)
-* Virtual Machine Generation Identifier \*\* [https://learn.microsoft.com/en-us/windows/win32/hyperv\_v2/virtual-machine-generation-identifier](https://learn.microsoft.com/en-us/windows/win32/hyperv_v2/virtual-machine-generation-identifier)
-* Things to Consider when you host Active Directory Domain Controllers in Virtual Hosting Environments [https://learn.microsoft.com/en-US/troubleshoot/windows-server/identity/ad-dc-in-virtual-hosting-environment](https://learn.microsoft.com/en-US/troubleshoot/windows-server/identity/ad-dc-in-virtual-hosting-environment)
-* Virtualized Domain Controller Deployment and Configuration [https://learn.microsoft.com/en-us/windows-server/identity/ad-ds/get-started/virtual-dc/virtualized-domain-controller-deployment-and-configuration](https://learn.microsoft.com/en-us/windows-server/identity/ad-ds/get-started/virtual-dc/virtualized-domain-controller-deployment-and-configuration)
-* ms-DS-Generation-Id attribute [https://learn.microsoft.com/en-us/windows/win32/adschema/a-msds-generationid](https://learn.microsoft.com/en-us/windows/win32/adschema/a-msds-generationid)
-* Virtualized Domain Controller Cloning [https://learn.microsoft.com/en-us/windows-server/identity/ad-ds/get-started/virtual-dc/virtualized-domain-controller-deployment-and-configuration#BKMK\_VDCCloning](https://learn.microsoft.com/en-us/windows-server/identity/ad-ds/get-started/virtual-dc/virtualized-domain-controller-deployment-and-configuration#BKMK_VDCCloning)
-* Safely Virtualizing Active Directory Domain Services [https://learn.microsoft.com/en-us/windows-server/identity/ad-ds/introduction-to-active-directory-domain-services-ad-ds-virtualization-level-100](https://learn.microsoft.com/en-us/windows-server/identity/ad-ds/introduction-to-active-directory-domain-services-ad-ds-virtualization-level-100)
-* New-ADDCCloneConfigFile [https://learn.microsoft.com/en-us/powershell/module/activedirectory/new-addccloneconfigfile?view=winserver2012r2-ps&redirectedfrom=MSDN](https://learn.microsoft.com/en-us/powershell/module/activedirectory/new-addccloneconfigfile?view=winserver2012r2-ps&redirectedfrom=MSDN)
-* Active Directory Domain Services Virtualization \*\* [https://learn.microsoft.com/en-us/windows-server/identity/ad-ds/get-started/virtual-dc/active-directory-domain-services-virtualization](https://learn.microsoft.com/en-us/windows-server/identity/ad-ds/get-started/virtual-dc/active-directory-domain-services-virtualization)
-* Virtualized Domain Controller Cloning Test Gudiance for Applicaiton Vendors \*\* [https://learn.microsoft.com/en-us/windows-server/identity/ad-ds/reference/virtual-dc/virtualized-domain-controller-cloning-test-guidance-for-application-vendors](https://learn.microsoft.com/en-us/windows-server/identity/ad-ds/reference/virtual-dc/virtualized-domain-controller-cloning-test-guidance-for-application-vendors)
+  * Introduction to Active Directory Domain Services (AD DS) Virtualization (Level 100) [https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-server-2012-r2-and-2012/hh831734(v=ws.11)](https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-server-2012-r2-and-2012/hh831734(v=ws.11))
+  * Virtual Domain Controller Cloning in Windows Server 2012 [https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/virtual-domain-controller-cloning-in-windows-server-2012/ba-p/255786](https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/virtual-domain-controller-cloning-in-windows-server-2012/ba-p/255786)
+  * Why is a virtual machine generation ID needed? (docx) [https://download.microsoft.com/download/3/1/C/31CFC307-98CA-4CA5-914C-D9772691E214/VirtualMachineGenerationID.docx](https://download.microsoft.com/download/3/1/C/31CFC307-98CA-4CA5-914C-D9772691E214/VirtualMachineGenerationID.docx)
+  * Virtual Machine Generation Identifier \*\* [https://learn.microsoft.com/en-us/windows/win32/hyperv\_v2/virtual-machine-generation-identifier](https://learn.microsoft.com/en-us/windows/win32/hyperv_v2/virtual-machine-generation-identifier)
+  * Things to Consider when you host Active Directory Domain Controllers in Virtual Hosting Environments [https://learn.microsoft.com/en-US/troubleshoot/windows-server/identity/ad-dc-in-virtual-hosting-environment](https://learn.microsoft.com/en-US/troubleshoot/windows-server/identity/ad-dc-in-virtual-hosting-environment)
+  * Virtualized Domain Controller Deployment and Configuration [https://learn.microsoft.com/en-us/windows-server/identity/ad-ds/get-started/virtual-dc/virtualized-domain-controller-deployment-and-configuration](https://learn.microsoft.com/en-us/windows-server/identity/ad-ds/get-started/virtual-dc/virtualized-domain-controller-deployment-and-configuration)
+  * ms-DS-Generation-Id attribute [https://learn.microsoft.com/en-us/windows/win32/adschema/a-msds-generationid](https://learn.microsoft.com/en-us/windows/win32/adschema/a-msds-generationid)
+  * Virtualized Domain Controller Cloning [https://learn.microsoft.com/en-us/windows-server/identity/ad-ds/get-started/virtual-dc/virtualized-domain-controller-deployment-and-configuration#BKMK\_VDCCloning](https://learn.microsoft.com/en-us/windows-server/identity/ad-ds/get-started/virtual-dc/virtualized-domain-controller-deployment-and-configuration#BKMK_VDCCloning)
+  * Safely Virtualizing Active Directory Domain Services [https://learn.microsoft.com/en-us/windows-server/identity/ad-ds/introduction-to-active-directory-domain-services-ad-ds-virtualization-level-100](https://learn.microsoft.com/en-us/windows-server/identity/ad-ds/introduction-to-active-directory-domain-services-ad-ds-virtualization-level-100)
+  * New-ADDCCloneConfigFile [https://learn.microsoft.com/en-us/powershell/module/activedirectory/new-addccloneconfigfile?view=winserver2012r2-ps&redirectedfrom=MSDN](https://learn.microsoft.com/en-us/powershell/module/activedirectory/new-addccloneconfigfile?view=winserver2012r2-ps&redirectedfrom=MSDN)
+  * Active Directory Domain Services Virtualization \*\* [https://learn.microsoft.com/en-us/windows-server/identity/ad-ds/get-started/virtual-dc/active-directory-domain-services-virtualization](https://learn.microsoft.com/en-us/windows-server/identity/ad-ds/get-started/virtual-dc/active-directory-domain-services-virtualization)
+  * Virtualized Domain Controller Cloning Test Gudiance for Applicaiton Vendors \*\* [https://learn.microsoft.com/en-us/windows-server/identity/ad-ds/reference/virtual-dc/virtualized-domain-controller-cloning-test-guidance-for-application-vendors](https://learn.microsoft.com/en-us/windows-server/identity/ad-ds/reference/virtual-dc/virtualized-domain-controller-cloning-test-guidance-for-application-vendors)
 * Dynamic Access Control (DAC)
-* Introduction to Windows Server 2012 Dynamic Access Control [https://cloudblogs.microsoft.com/windowsserver/2012/05/22/introduction-to-windows-server-2012-dynamic-access-control/](https://cloudblogs.microsoft.com/windowsserver/2012/05/22/introduction-to-windows-server-2012-dynamic-access-control/)
-* Understand and Troubleshoot Dynamic Access Control in Windows Server 2012 (docx) [https://download.microsoft.com/download/C/2/0/C200CF47-1303-4E7F-8AA9-23265EB595A6/UTG-DynamicAccessControl-Feb2013%20.docx](https://download.microsoft.com/download/C/2/0/C200CF47-1303-4E7F-8AA9-23265EB595A6/UTG-DynamicAccessControl-Feb2013%20.docx)
-* Getting started with Central Access Policies- Reducing security group complexity and achieving data access compliance using Dynamic Access Control [https://techcommunity.microsoft.com/t5/storage-at-microsoft/getting-started-with-central-access-policies-reducing-security/ba-p/424392](https://techcommunity.microsoft.com/t5/storage-at-microsoft/getting-started-with-central-access-policies-reducing-security/ba-p/424392)
-* How to use central access policies for dynamic access control [https://learn.microsoft.com/en-us/previous-versions/windows/desktop/dacx/how-to-use-central-access-policies-for-dynamic-access-control](https://learn.microsoft.com/en-us/previous-versions/windows/desktop/dacx/how-to-use-central-access-policies-for-dynamic-access-control)
-* Deploy a Central Access Policy (Demonstration Steps) [https://learn.microsoft.com/en-us/windows-server/identity/solution-guides/deploy-a-central-access-policy](https://learn.microsoft.com/en-us/windows-server/identity/solution-guides/deploy-a-central-access-policy) \-demonstration-steps-
-* Dynamic Access Control: Scenario Overview \*\* [https://learn.microsoft.com/en-us/windows-server/identity/solution-guides/dynamic-access-control](https://learn.microsoft.com/en-us/windows-server/identity/solution-guides/dynamic-access-control) \-scenario-overview
-* Manage Risk with Conditional Access Control \*\* [https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-server-2012-r2-and-2012/dn280937(v=ws.11)](https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-server-2012-r2-and-2012/dn280937(v=ws.11))
-* Manage Risk with Additional Multi-Factor Authentication for Sensitive Applications \*\* [https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-server-2012-r2-and-2012/dn280949(v=ws.11)](https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-server-2012-r2-and-2012/dn280949(v=ws.11))
-* Kerberos FAST
-* RFC6113 A Generalized Framework for Kerberos Pre-Authentication (3rd Party) [https://datatracker.ietf.org/doc/html/rfc6113](https://datatracker.ietf.org/doc/html/rfc6113)
-* What's New in Kerberos Authentication [https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-server-2012-R2-and-2012/hh831747(v=ws.11)](https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-server-2012-R2-and-2012/hh831747(v=ws.11))
-* Access Control and Authorization Overview [https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-8.1-and-8/jj134043(v=ws.11)](https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-8.1-and-8/jj134043(v=ws.11))
-* Kerberos Constrained Delegation Enhancements
-* Kerberos Constrained Delegation Overview [https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-server-2012-R2-and-2012/jj553400(v=ws.11)](https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-server-2012-R2-and-2012/jj553400(v=ws.11))
-* How Windows Server 2012 Eases the Pain of Kerberos Constrained Delegation, Part 1 (3rd Party) [https://www.itprotoday.com/windows-server/how-windows-server-2012-eases-pain-kerberos-constrained-delegation-part-1](https://www.itprotoday.com/windows-server/how-windows-server-2012-eases-pain-kerberos-constrained-delegation-part-1)
-* How Windows Server 2012 Eases the Pain of Kerberos Constrained Delegation, Part 2 (3rd Party) [https://www.itprotoday.com/windows-server/how-windows-server-2012-eases-pain-kerberos-constrained-delegation-part-2](https://www.itprotoday.com/windows-server/how-windows-server-2012-eases-pain-kerberos-constrained-delegation-part-2)
-* [https://learn.microsoft.com/en-us/openspecs/windows\_protocols/ms-sfu/3bff5864-8135-400e-bdd9-33b552051d94](https://learn.microsoft.com/en-us/openspecs/windows_protocols/ms-sfu/3bff5864-8135-400e-bdd9-33b552051d94)
-* Kerberos Proxy
-* Kerberos Authentication Overview [https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-server-2012-R2-and-2012/hh831553(v=ws.11)](https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-server-2012-R2-and-2012/hh831553(v=ws.11))
-* Delegation of Authentication [https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-2000-server/cc961964(v=technet.10)](https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-2000-server/cc961964(v=technet.10))
-* [https://learn.microsoft.com/en-us/openspecs/windows\_protocols/ms-kkdcp/5bcebb8d-b747-4ee5-9453-428aec1c5c38](https://learn.microsoft.com/en-us/openspecs/windows_protocols/ms-kkdcp/5bcebb8d-b747-4ee5-9453-428aec1c5c38)
-* How to configure Kerberos Constrained Delegation for Web Enrollment proxy pages \*\* [https://learn.microsoft.com/en-us/troubleshoot/windows-server/identity/configure-kerberos-constrained-delegation](https://learn.microsoft.com/en-us/troubleshoot/windows-server/identity/configure-kerberos-constrained-delegation)
+  * Introduction to Windows Server 2012 Dynamic Access Control [https://cloudblogs.microsoft.com/windowsserver/2012/05/22/introduction-to-windows-server-2012-dynamic-access-control/](https://cloudblogs.microsoft.com/windowsserver/2012/05/22/introduction-to-windows-server-2012-dynamic-access-control/)
+  * Understand and Troubleshoot Dynamic Access Control in Windows Server 2012 (docx) [https://download.microsoft.com/download/C/2/0/C200CF47-1303-4E7F-8AA9-23265EB595A6/UTG-DynamicAccessControl-Feb2013%20.docx](https://download.microsoft.com/download/C/2/0/C200CF47-1303-4E7F-8AA9-23265EB595A6/UTG-DynamicAccessControl-Feb2013%20.docx)
+  * Getting started with Central Access Policies- Reducing security group complexity and achieving data access compliance using Dynamic Access Control [https://techcommunity.microsoft.com/t5/storage-at-microsoft/getting-started-with-central-access-policies-reducing-security/ba-p/424392](https://techcommunity.microsoft.com/t5/storage-at-microsoft/getting-started-with-central-access-policies-reducing-security/ba-p/424392)
+  * How to use central access policies for dynamic access control [https://learn.microsoft.com/en-us/previous-versions/windows/desktop/dacx/how-to-use-central-access-policies-for-dynamic-access-control](https://learn.microsoft.com/en-us/previous-versions/windows/desktop/dacx/how-to-use-central-access-policies-for-dynamic-access-control)
+  * Scenario: Central Access Policy - https://learn.microsoft.com/en-us/windows-server/identity/solution-guides/scenario--central-access-policy
+  * Dynamic Access Contro: Scenario Overivew - https://learn.microsoft.com/en-us/windows-server/identity/solution-guides/dynamic-access-control--scenario-overview
+  * Deploy a Central Access Policy (Demonstration Steps) - https://learn.microsoft.com/en-us/windows-server/identity/solution-guides/deploy-a-central-access-policy--demonstration-steps-
+  * Dynamic Access Control: Scenario Overview \*\* [https://learn.microsoft.com/en-us/windows-server/identity/solution-guides/dynamic-access-control](https://learn.microsoft.com/en-us/windows-server/identity/solution-guides/dynamic-access-control) \-scenario-overview
+  * Manage Risk with Conditional Access Control \*\* [https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-server-2012-r2-and-2012/dn280937(v=ws.11)](https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-server-2012-r2-and-2012/dn280937(v=ws.11))
+  * Manage Risk with Additional Multi-Factor Authentication for Sensitive Applications \*\* [https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-server-2012-r2-and-2012/dn280949(v=ws.11)](https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-server-2012-r2-and-2012/dn280949(v=ws.11))
+* Kerberos 
+  * Kerberos FAST - RFC6113 A Generalized Framework for Kerberos Pre-Authentication (3rd Party) [https://datatracker.ietf.org/doc/html/rfc6113](https://datatracker.ietf.org/doc/html/rfc6113)
+  * What's New in Kerberos Authentication [https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-server-2012-R2-and-2012/hh831747(v=ws.11)](https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-server-2012-R2-and-2012/hh831747(v=ws.11))
+  * Access Control and Authorization Overview [https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-8.1-and-8/jj134043(v=ws.11)](https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-8.1-and-8/jj134043(v=ws.11))
+  * Kerberos Constrained Delegation Overview [https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-server-2012-R2-and-2012/jj553400(v=ws.11)](https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-server-2012-R2-and-2012/jj553400(v=ws.11))
+  * How Windows Server 2012 Eases the Pain of Kerberos Constrained Delegation, Part 1 (3rd Party) [https://www.itprotoday.com/windows-server/how-windows-server-2012-eases-pain-kerberos-constrained-delegation-part-1](https://www.itprotoday.com/windows-server/how-windows-server-2012-eases-pain-kerberos-constrained-delegation-part-1)
+  * How Windows Server 2012 Eases the Pain of Kerberos Constrained Delegation, Part 2 (3rd Party) [https://www.itprotoday.com/windows-server/how-windows-server-2012-eases-pain-kerberos-constrained-delegation-part-2](https://www.itprotoday.com/windows-server/how-windows-server-2012-eases-pain-kerberos-constrained-delegation-part-2)
+  * [https://learn.microsoft.com/en-us/openspecs/windows\_protocols/ms-sfu/3bff5864-8135-400e-bdd9-33b552051d94](https://learn.microsoft.com/en-us/openspecs/windows_protocols/ms-sfu/3bff5864-8135-400e-bdd9-33b552051d94)
+  * Kerberos Authentication Overview [https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-server-2012-R2-and-2012/hh831553(v=ws.11)](https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-server-2012-R2-and-2012/hh831553(v=ws.11))
+  * Delegation of Authentication [https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-2000-server/cc961964(v=technet.10)](https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-2000-server/cc961964(v=technet.10))
+    * [https://learn.microsoft.com/en-us/openspecs/windows\_protocols/ms-kkdcp/5bcebb8d-b747-4ee5-9453-428aec1c5c38](https://learn.microsoft.com/en-us/openspecs/windows_protocols/ms-kkdcp/5bcebb8d-b747-4ee5-9453-428aec1c5c38)
+  * How to configure Kerberos Constrained Delegation for Web Enrollment proxy pages \*\* [https://learn.microsoft.com/en-us/troubleshoot/windows-server/identity/configure-kerberos-constrained-delegation](https://learn.microsoft.com/en-us/troubleshoot/windows-server/identity/configure-kerberos-constrained-delegation)
 * Workplace Join and Azure Join
-* Walkthrough: Workplace Join with a Windows Device \*\* [https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-server-2012-r2-and-2012/dn280938(v=ws.11)](https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-server-2012-r2-and-2012/dn280938(v=ws.11))
-* Manage Device Identities by Using the Azure Portal \*\* [https://learn.microsoft.com/en-us/azure/active-directory/devices/device-management-azure-portal?rnd=1](https://learn.microsoft.com/en-us/azure/active-directory/devices/device-management-azure-portal?rnd=1)
+  * Walkthrough: Workplace Join with a Windows Device \*\* [https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-server-2012-r2-and-2012/dn280938(v=ws.11)](https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-server-2012-r2-and-2012/dn280938(v=ws.11))
+  * Manage Device Identities by Using the Azure Portal \*\* [https://learn.microsoft.com/en-us/azure/active-directory/devices/device-management-azure-portal?rnd=1](https://learn.microsoft.com/en-us/azure/active-directory/devices/device-management-azure-portal?rnd=1)
 * Other Server 2012 Changes
-* Introduction to AD Administrative Center Enhancements \*\* [https://learn.microsoft.com/en-us/windows-server/identity/ad-ds/get-started/adac/introduction-to-active-directory-administrative-center-enhancements-level-100-](https://learn.microsoft.com/en-us/windows-server/identity/ad-ds/get-started/adac/introduction-to-active-directory-administrative-center-enhancements-level-100-)
-* Volume Activation Overview \*\* [https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-server-2012-r2-and-2012/hh831612(v=ws.11)](https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-server-2012-r2-and-2012/hh831612(v=ws.11))
-* Changes Made by Adprep.exe [https://learn.microsoft.com/en-us/windows-server/identity/ad-ds/deploy/adprep/changes-made-by-adprep](https://learn.microsoft.com/en-us/windows-server/identity/ad-ds/deploy/adprep/changes-made-by-adprep)
+  * Introduction to AD Administrative Center Enhancements \*\* - https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-server-2012-R2-and-2012/hh831702(v=ws.11)
+  * Volume Activation Overview \*\* [https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-server-2012-r2-and-2012/hh831612(v=ws.11)](https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-server-2012-r2-and-2012/hh831612(v=ws.11))
+  * Changes Made by Adprep.exe [https://learn.microsoft.com/en-us/windows-server/identity/ad-ds/deploy/adprep/changes-made-by-adprep](https://learn.microsoft.com/en-us/windows-server/identity/ad-ds/deploy/adprep/changes-made-by-adprep)
 
 # Server 2008 Features
-
-# Misc Server 2008 Features
-
+## Misc Server 2008 Features
 * Active Directory Domain Services Role (What's New 2008) [https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-server-2008-r2-and-2008/cc753516(v=ws.10)](https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-server-2008-r2-and-2008/cc753516(v=ws.10))
 * What's New in Active Directory Domain Services (Server 2008 R2) [https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-server-2008-R2-and-2008/dd378796(v=ws.10)](https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-server-2008-R2-and-2008/dd378796(v=ws.10))
 * Changes in Functionality from Windows Server 2008 to Windows Server 2008 R2 [https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-server-2008-R2-and-2008/dd391932(v=ws.10)](https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-server-2008-R2-and-2008/dd391932(v=ws.10))
@@ -727,8 +692,7 @@ No new features related to AD have been released (at least publicly) to server v
 * Managed Service Accounts [https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-server-2008-R2-and-2008/ff641731(v=ws.10)](https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-server-2008-R2-and-2008/ff641731(v=ws.10))
 * Managed Service Accounts: Understanding, Implementing, Best Practices, and Troubleshooting [https://techcommunity.microsoft.com/t5/ask-the-directory-services-team/managed-service-accounts-understanding-implementing-best/ba-p/397009](https://techcommunity.microsoft.com/t5/ask-the-directory-services-team/managed-service-accounts-understanding-implementing-best/ba-p/397009)
 
-# Read Only Domain Controller
-
+## Read Only Domain Controller
 * Read-Only Domain Controller Planning and Deployment Guide [https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-server-2008-R2-and-2008/cc771744(v=ws.10)](https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-server-2008-R2-and-2008/cc771744(v=ws.10))
 * Understanding Planning and Deployment for Read-Only Domain Controllers [https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-server-2008-R2-and-2008/cc754719(v=ws.10)](https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-server-2008-R2-and-2008/cc754719(v=ws.10))
 * RODC Branch Office Guide [https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-server-2008-R2-and-2008/dd734758(v=ws.10)](https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-server-2008-R2-and-2008/dd734758(v=ws.10))
@@ -762,7 +726,7 @@ No new features related to AD have been released (at least publicly) to server v
 
 * The Immutable Laws of Security [https://learn.microsoft.com/en-us/security/zero-trust/ten-laws-of-security](https://learn.microsoft.com/en-us/security/zero-trust/ten-laws-of-security)
 * Windows Server Security Documentation [https://learn.microsoft.com/en-us/windows-server/security/security-and-assurance](https://learn.microsoft.com/en-us/windows-server/security/security-and-assurance)
-* Best Practices for Securing Active Directory [https://learn.microsoft.com/en-us/windows-server/identity/ad-ds/plan/security-best-practices/best-practices-for-securing-active-directory](https://learn.microsoft.com/en-us/windows-server/identity/ad-ds/plan/security-best-practices/best-practices-for-securing-active-directory)
+* Best Practices for Securing Active Directory - https://learn.microsoft.com/en-us/windows-server/identity/ad-ds/plan/security-best-practices/best-practices-for-securing-active-directory
 * Reducing the Active Directory Attack Surface [https://learn.microsoft.com/en-us/windows-server/identity/ad-ds/plan/security-best-practices/reducing-the-active-directory-attack-surface](https://learn.microsoft.com/en-us/windows-server/identity/ad-ds/plan/security-best-practices/reducing-the-active-directory-attack-surface)
 * Implementing Least-Privilege Administrative Models [https://learn.microsoft.com/en-us/windows-server/identity/ad-ds/plan/security-best-practices/implementing-least-privilege-administrative-models](https://learn.microsoft.com/en-us/windows-server/identity/ad-ds/plan/security-best-practices/implementing-least-privilege-administrative-models)
 * Implementing Secure Administrative Hosts [https://learn.microsoft.com/en-us/windows-server/identity/ad-ds/plan/security-best-practices/implementing-secure-administrative-hosts](https://learn.microsoft.com/en-us/windows-server/identity/ad-ds/plan/security-best-practices/implementing-secure-administrative-hosts)
@@ -771,16 +735,16 @@ No new features related to AD have been released (at least publicly) to server v
 * Audit Policy Recommendations [https://learn.microsoft.com/en-us/windows-server/identity/ad-ds/plan/security-best-practices/audit-policy-recommendations](https://learn.microsoft.com/en-us/windows-server/identity/ad-ds/plan/security-best-practices/audit-policy-recommendations)
 * Planning for Compromise [https://learn.microsoft.com/en-us/windows-server/identity/ad-ds/plan/security-best-practices/planning-for-compromise](https://learn.microsoft.com/en-us/windows-server/identity/ad-ds/plan/security-best-practices/planning-for-compromise)
 * Maintaining a More Secure Environment [https://learn.microsoft.com/en-us/windows-server/identity/ad-ds/plan/security-best-practices/maintaining-a-more-secure-environment](https://learn.microsoft.com/en-us/windows-server/identity/ad-ds/plan/security-best-practices/maintaining-a-more-secure-environment)
-* Appendix B: Privileged Accounts and Groups in Active Directory [https://learn.microsoft.com/en-us/windows-server/identity/ad-ds/plan/security-best-practices/appendix-b](https://learn.microsoft.com/en-us/windows-server/identity/ad-ds/plan/security-best-practices/appendix-b) \-privileged-accounts-and-groups-in-active-directory
-* Appendix C: Protected Accounts and Groups in Active Directory [https://learn.microsoft.com/en-us/windows-server/identity/ad-ds/plan/security-best-practices/appendix-c](https://learn.microsoft.com/en-us/windows-server/identity/ad-ds/plan/security-best-practices/appendix-c) \-protected-accounts-and-groups-in-active-directory
-* Appendix D: Securing Built-in Administrator Accounts in Active Directory [https://learn.microsoft.com/en-us/windows-server/identity/ad-ds/plan/security-best-practices/appendix-d](https://learn.microsoft.com/en-us/windows-server/identity/ad-ds/plan/security-best-practices/appendix-d) \-securing-built-in-administrator-accounts-in-active-directory
-* Appendix E: Securing Enterprise Admins Groups in Active Directory [https://learn.microsoft.com/en-us/windows-server/identity/ad-ds/plan/security-best-practices/appendix-e](https://learn.microsoft.com/en-us/windows-server/identity/ad-ds/plan/security-best-practices/appendix-e) \-securing-enterprise-admins-groups-in-active-directory
-* Appendix F: Securing Domain Admins Groups in Active Directory [https://learn.microsoft.com/en-us/windows-server/identity/ad-ds/plan/security-best-practices/appendix-f](https://learn.microsoft.com/en-us/windows-server/identity/ad-ds/plan/security-best-practices/appendix-f) \-securing-domain-admins-groups-in-active-directory
-* Appendix G: Securing Administrators Groups in Active Directory [https://learn.microsoft.com/en-us/windows-server/identity/ad-ds/plan/security-best-practices/appendix-g](https://learn.microsoft.com/en-us/windows-server/identity/ad-ds/plan/security-best-practices/appendix-g) \-securing-administrators-groups-in-active-directory
-* Appendix H: Securing Local Administrator Accounts and Groups [https://learn.microsoft.com/en-us/windows-server/identity/ad-ds/plan/security-best-practices/appendix-h](https://learn.microsoft.com/en-us/windows-server/identity/ad-ds/plan/security-best-practices/appendix-h) \-securing-local-administrator-accounts-and-groups
-* Appendix I: Creating Management Accounts for Protected Accounts and Groups in Active Directory [https://learn.microsoft.com/en-us/windows-server/identity/ad-ds/manage/component-updates/appendix-i](https://learn.microsoft.com/en-us/windows-server/identity/ad-ds/manage/component-updates/appendix-i) \-creating-management-accounts-for-protected-accounts-and-groups-in-active-directory
-* Appendix L: Events to Monitor [https://learn.microsoft.com/en-us/windows-server/identity/ad-ds/plan/appendix-l](https://learn.microsoft.com/en-us/windows-server/identity/ad-ds/plan/appendix-l) \-events-to-monitor
-* Appendix M: Document Links and Recommended Readin [https://learn.microsoft.com/en-us/windows-server/identity/ad-ds/manage/appendix-m](https://learn.microsoft.com/en-us/windows-server/identity/ad-ds/manage/appendix-m) \-document-links-and-recommended-reading
+* Appendix B: Privileged Accounts and Groups in Active Directory - https://learn.microsoft.com/en-us/windows-server/identity/ad-ds/plan/security-best-practices/appendix-b--privileged-accounts-and-groups-in-active-directory
+* Appendix C: Protected Accounts and Groups in Active Directory - https://learn.microsoft.com/en-us/windows-server/identity/ad-ds/plan/security-best-practices/appendix-c--protected-accounts-and-groups-in-active-directory
+* Appendix D: Securing Built-in Administrator Accounts in Active Directory - https://learn.microsoft.com/en-us/windows-server/identity/ad-ds/plan/security-best-practices/appendix-d--securing-built-in-administrator-accounts-in-active-directory
+* Appendix E: Securing Enterprise Admins Groups in Active Directory - https://learn.microsoft.com/en-us/windows-server/identity/ad-ds/plan/security-best-practices/appendix-e--securing-enterprise-admins-groups-in-active-directory
+* Appendix F: Securing Domain Admins Groups in Active Directory - https://learn.microsoft.com/en-us/windows-server/identity/ad-ds/plan/security-best-practices/appendix-f--securing-domain-admins-groups-in-active-directory
+* Appendix G: Securing Administrators Groups in Active Directory - https://learn.microsoft.com/en-us/windows-server/identity/ad-ds/plan/security-best-practices/appendix-g--securing-administrators-groups-in-active-directory
+* Appendix H: Securing Local Administrator Accounts and Groups - https://learn.microsoft.com/en-us/windows-server/identity/ad-ds/plan/security-best-practices/appendix-h--securing-local-administrator-accounts-and-groups
+* Appendix I: Creating Management Accounts for Protected Accounts and Groups in Active Directory - https://learn.microsoft.com/en-us/windows-server/identity/ad-ds/manage/component-updates/appendix-i--creating-management-accounts-for-protected-accounts-and-groups-in-active-directory
+* Appendix L: Events to Monitor - https://learn.microsoft.com/en-us/windows-server/identity/ad-ds/plan/appendix-l--events-to-monitor
+* Appendix M: Document Links and Recommended Reading - https://learn.microsoft.com/en-us/windows-server/identity/ad-ds/manage/appendix-m--document-links-and-recommended-reading
 * Securing privileged access [https://learn.microsoft.com/en-us/security/privileged-access-workstations/overview](https://learn.microsoft.com/en-us/security/privileged-access-workstations/overview)
 * Privileged access: Strategy [https://learn.microsoft.com/en-us/security/privileged-access-workstations/privileged-access-strategy](https://learn.microsoft.com/en-us/security/privileged-access-workstations/privileged-access-strategy)
 * Success criteria for privileged access strategy [https://learn.microsoft.com/en-us/security/privileged-access-workstations/privileged-access-success-criteria](https://learn.microsoft.com/en-us/security/privileged-access-workstations/privileged-access-success-criteria)
@@ -814,5 +778,5 @@ No new features related to AD have been released (at least publicly) to server v
 * FRS Tools and Settings [https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-server-2003/cc786122(v=ws.10)](https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-server-2003/cc786122(v=ws.10))
 
 **Change Log**
-
+* Updated - 2025-04 - Cleaned up broken links, formatting changes. 
 * Updated - 2025-02 - Moved as sub-page under resources wiki
