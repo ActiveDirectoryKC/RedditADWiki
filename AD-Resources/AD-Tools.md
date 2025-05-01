@@ -145,7 +145,7 @@ If you are interested in how these items were selected see the wiki page for [AD
    * [https://specopssoft.com/lp/uk/free-active-directory-password-audit/](https://specopssoft.com/lp/uk/free-active-directory-password-audit/)
    * **MOD NOTE:** Used once, not a big fan of dumping passwords.
 * PowerPUG - Tool to help with tranisitiong to using Protected Users
-   * [https://github.com/TrimarcJake/PowerPUG](https://github.com/jakehildreth/PowerPUG)
+   * [https://github.com/jakehildreth/PowerPUG](https://github.com/jakehildreth/PowerPUG)
 * 💥 ADRecon - Extracts and combines various artifacts out of AD.
    * [https://github.com/adrecon/ADRecon](https://github.com/adrecon/ADRecon)
 * myADMonitor - Open-source AD change tracking tool
