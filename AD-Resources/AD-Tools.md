@@ -63,7 +63,7 @@ If you are interested in how these items were selected see the wiki page for [AD
 * ✨Locksmith - [https://github.com/jakehildreth/Locksmith](https://github.com/jakehildreth/Locksmith)
    * PKI Auditing and Checking Tool.
    * This is a must have when running PKI. Really good and there is a lot of active development on it (2025).
-* ✨BlueTuxedo - [[https://github.com/TrimarcJake/BlueTuxedo](https://github.com/jakehildreth/BlueTuxedo)
+* ✨BlueTuxedo - [[https://github.com/jakehildreth/BlueTuxedo](https://github.com/jakehildreth/BlueTuxedo)
    * "A tiny tool built to find an dfix common misconfigurations in AD-Integrated DNS..."
    * Finds stuff in DNS you may not find.
 * 💥BloodHound/SharpHound - Attack Path Analysis
@@ -75,8 +75,10 @@ If you are interested in how these items were selected see the wiki page for [AD
    * [https://github.com/lkarlslund/Adalanche](https://github.com/lkarlslund/Adalanche)
 * Trimarc AD Checks - Sean Metcalf (ADSecurity.org)
    * [https://www.hub.trimarcsecurity.com/post/securing-active-directory-performing-an-active-directory-security-review](https://www.hub.trimarcsecurity.com/post/securing-active-directory-performing-an-active-directory-security-review)
+   * Trimarc has been absorbed by TrustedSec so the links may change.
 * Invoke-TrimarcADChecks (Trimarc)
    * [https://github.com/Trimarc/Invoke-TrimarcADChecks](https://github.com/Trimarc/Invoke-TrimarcADChecks)
+   * Trimarc has been absorbed by TrustedSec so the links may change.
 * AD ACL Scanner - 
    * [https://managedpriv.com/project/ad-acl-scanner/](https://managedpriv.com/project/ad-acl-scanner/)
 * ScriptSentry 
