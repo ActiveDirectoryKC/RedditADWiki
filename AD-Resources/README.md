@@ -62,7 +62,9 @@ There are a lot of resources for Active Directory, Entra, and other Identity pro
 # Third Party Training
 
 >**NOTE** We cannot vet all the 3rd party resources fully. Sometimes it is best effort. Courses that have gotten approval from the community will be tagged as such. If a course is not good, let us know.
-
+* Youtube - Only free courses will be put here. These will be from a variety of vendors/content creators.
+  * From Zero to Hero: A Beginner's Guide to Active Directory (Antisyphon + Black Hills)
+    * https://www.youtube.com/watch?v=XwOV7HpVLEA    
 * Udemy - The courses aren't cheap always but they run deals commonly.
    * AZ-800
       * [https://www.udemy.com/course/az-800-course-administering-windows-server-hybrid-core-inf](https://www.udemy.com/course/az-800-course-administering-windows-server-hybrid-core-inf)
