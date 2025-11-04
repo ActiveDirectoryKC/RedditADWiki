@@ -64,7 +64,10 @@ This link is a Beginner's Guide that provides resources and links to get you off
 >**NOTE** We cannot vet all the 3rd party resources fully. Sometimes it is best effort. Courses that have gotten approval from the community will be tagged as such. If a course is not good, let us know.
 * Youtube - Only free courses will be put here. These will be from a variety of vendors/content creators.
   * From Zero to Hero: A Beginner's Guide to Active Directory (Antisyphon + Black Hills)
-    * https://www.youtube.com/watch?v=XwOV7HpVLEA    
+    * https://www.youtube.com/watch?v=XwOV7HpVLEA
+* Antisyphon Training - Run by Black Hills InfoSec
+  * https://www.antisyphontraining.com/
+  * **MOD NOTE**: Most of their training is pay what you can and they have weekly webcasts that are shorter 1 hour long trainings that are 100% free. Very, very much worth it. 
 * Udemy - The courses aren't cheap always but they run deals commonly.
    * AZ-800
       * [https://www.udemy.com/course/az-800-course-administering-windows-server-hybrid-core-inf](https://www.udemy.com/course/az-800-course-administering-windows-server-hybrid-core-inf)
@@ -97,12 +100,15 @@ This link is a Beginner's Guide that provides resources and links to get you off
 
 * ✨AD Documentation: [https://docs.microsoft.com/en-us/windows-server/identity/ad-ds/active-directory-domain-services](https://docs.microsoft.com/en-us/windows-server/identity/ad-ds/active-directory-domain-services)
 * ✨AD Ports Reference: [https://learn.microsoft.com/en-us/troubleshoot/windows-server/active-directory/config-firewall-for-ad-domains-and-trusts](https://learn.microsoft.com/en-us/troubleshoot/windows-server/active-directory/config-firewall-for-ad-domains-and-trusts)
-* DS Internals AD Firewall Guidelines \[3rd Party\]: [https://firewall.dsinternals.com/ ](https://firewall.dsinternals.com/ )
+* ✨DS Internals AD Firewall Guidelines \[3rd Party\]: [https://firewall.dsinternals.com/ ](https://firewall.dsinternals.com/ )
+  * __MOD NOTE__: Windows Firewall Bible
 * Identity and Access Documentation: [https://docs.microsoft.com/en-us/windows-server/identity/identity-and-access](https://docs.microsoft.com/en-us/windows-server/identity/identity-and-access)
 * Active Directory Domain Services (Win32): [https://docs.microsoft.com/en-us/windows/win32/ad/active-directory-domain-services](https://docs.microsoft.com/en-us/windows/win32/ad/active-directory-domain-services)
 * About AD DS: [https://docs.microsoft.com/en-us/windows/win32/ad/about-active-directory-domain-services](https://docs.microsoft.com/en-us/windows/win32/ad/about-active-directory-domain-services)
 * Using AD DS: [https://docs.microsoft.com/en-us/windows/win32/ad/using-active-directory-domain-services](https://docs.microsoft.com/en-us/windows/win32/ad/using-active-directory-domain-services)
 * ✨MS-ADTS: Active Directory Technical Specification - "openspecs": [https://docs.microsoft.com/en-us/openspecs/windows\_protocols/ms-adts](https://docs.microsoft.com/en-us/openspecs/windows_protocols/ms-adts)
+* ✨AdminSDHolder Misconceptions & Misconfigurations \[3rd Party - Spectre Ops\] - https://specterops.io/resources/adminsdholder/
+  * __MOD NOTE__: AdminSDHolder Bible
 * **LEGACY Active Directory Collection:** [https://docs.microsoft.com/en-us/previous-versions/windows/it-pro/windows-server-2003/cc780036(v=ws.10)](https://docs.microsoft.com/en-us/previous-versions/windows/it-pro/windows-server-2003/cc780036(v=ws.10))
 * **LEGACY Active Directory:** [https://docs.microsoft.com/en-us/previous-versions/windows/it-pro/windows-2000-server/cc977985(v=technet.10)?redirectedfrom=MSDN](https://docs.microsoft.com/en-us/previous-versions/windows/it-pro/windows-2000-server/cc977985(v=technet.10)?redirectedfrom=MSDN)
 
@@ -201,6 +207,10 @@ This link is a Beginner's Guide that provides resources and links to get you off
 * [https://www.menrva-tech.com/?page\_id=273](https://www.menrva-tech.com/?page_id=273)
 * [https://msandbu.org/](https://msandbu.org/)
 * [https://aadinternals.com/](https://aadinternals.com/)
+* https://offsec.blog/
+* [Sysadmins LV - PKI Stuff www.sysadmins.lv/blog-en/default.aspx](www.sysadmins.lv/blog-en/default.aspx)
+* https://www.diondefends.com/
+* https://www.antisyphontraining.com/blogs/
 
 **Company-centric Blogs** \- These blogs are run by specific companies who tend to include information about themselves along with the information. This doesn't invalidate the information, but they warranted a separate category for transparency.
 
@@ -210,6 +220,7 @@ This link is a Beginner's Guide that provides resources and links to get you off
 * [https://www.ravenswoodtechnology.com/blog/](https://www.ravenswoodtechnology.com/blog/)
 * [https://www.semperis.com/blog/](https://www.semperis.com/blog/)
 * [https://blog.quest.com/](https://blog.quest.com/)
+* https://www.silverfort.com/blog/
 * [https://www.pkisolutions.com/blog/](https://www.pkisolutions.com/blog/)
 * [https://www.sysadmins.lv/blog-en/default.aspx](https://www.sysadmins.lv/blog-en/default.aspx)
 * [https://redmondmag.com/Home.aspx](https://redmondmag.com/Home.aspx)
@@ -219,6 +230,8 @@ This link is a Beginner's Guide that provides resources and links to get you off
 * [https://www.silverfort.com/blog/](https://www.silverfort.com/blog/)
 * [https://adamtheautomator.com/](https://adamtheautomator.com/)
 * [https://www.lepide.com/blog/](https://www.lepide.com/blog/)
+* https://www.cayosoft.com/threat-directory/
+* 
 
 **Legacy Blogs / Defunct Blogs** \- These blogs are either hard to find or aren't being updated. Still good information.
 
@@ -233,17 +246,25 @@ This link is a Beginner's Guide that provides resources and links to get you off
 
 * HIP Podcast
    * [https://www.hipconf.com/podcast](https://www.hipconf.com/podcast)
+* Antisyphon Training
+  * https://www.youtube.com/@AntisyphonTraining
+* PDQ Live
+  * https://www.youtube.com/watch?v=mydgiVnM00o&list=PL1mL90yFExsjNS_GjjdPM9ngD4Mjh1hVj
 * Practical 365 (Quest)
    * [https://practical365.com/podcasts/](https://practical365.com/podcasts/)
 * MS Cloud IT Pro Podcast
    * [https://www.msclouditpropodcast.com/](https://www.msclouditpropodcast.com/)
 * RunAs Radio
    * [https://runasradio.com/](https://runasradio.com/)
-* Trimarc Happy Hour
-   * Trimarc was aquired by TrustedSec so this may change at some point.
-   * [https://www.hub.trimarcsecurity.com/video](https://www.hub.trimarcsecurity.com/video)
+* Red Siege - Wednesday Offensive
+  * https://redsiege.com/wednesday-offensive/
+* CyberThreatPOV by SecurIT360
+  * https://www.youtube.com/@CyberThreatPOV
+* Zero Trust Journey
+  * https://www.youtube.com/@ZeroTrustJourney
 
 # CHANGE LOG
+* Updated 2025-11 with new Links - More Blogs and Podcasts
 * Updated 2025-04 with new links - Firewall Links and STIG Updates
 * Updated 2025-02 with link updates. 
 * Updated 2025-01 with new links, more training options, and more tools. Also created off-reddit wiki page for tracking the details.**
