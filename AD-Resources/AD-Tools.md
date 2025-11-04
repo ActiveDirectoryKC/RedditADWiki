@@ -66,11 +66,22 @@ If you are interested in how these items were selected see the wiki page for [AD
 * ✨BlueTuxedo - [[https://github.com/jakehildreth/BlueTuxedo](https://github.com/jakehildreth/BlueTuxedo)
    * "A tiny tool built to find an dfix common misconfigurations in AD-Integrated DNS..."
    * Finds stuff in DNS you may not find.
+* Stairs by Jake Hildreth
+  * https://github.com/jakehildreth/Stairs
+  * "A tiny tool for identifying AD CS issue combinations that may not be readily obvious"
+  * Consider this an extension of Locksmith in many ways. 
 * 💥BloodHound/SharpHound - Attack Path Analysis
    * [https://github.com/BloodHound](https://github.com/BloodHound)
    * Almost every EDR/XDR/ITDR tool will pick up on this and alert. Be warned.
+* ✨CayoSoft Guardian Protector
+  * https://resources.cayosoft.com/download-cayosoft-protector
+  * Provides many services including some Real-Time AD Vulnerability Scanning and Change Monitoring.
+  * Requires an email address (you can get by with a fake "business" email) and is effectively a reduced version of the main product. It is limited in how long it can track changes, the RBAC is basically non-existant, and it is kind of "ad heavy" pushing you upgrade to the paid version. It is useful and worth considering.
 * GoodHound - actionable lists from BloodHound - 
    * [https://github.com/idnahacks/GoodHound](https://github.com/idnahacks/GoodHound)
+* ❔AD-Miner
+  * https://github.com/AD-Security/AD_Miner
+  * AD Miner is an Active Directory (on-premise and Entra ID) auditing tool that analyzes BloodHound data into a web-based report.
 * Adalanche - AD ACL Explorer/Visualizer
    * [https://github.com/lkarlslund/Adalanche](https://github.com/lkarlslund/Adalanche)
 * Trimarc AD Checks - Sean Metcalf (ADSecurity.org)
@@ -79,8 +90,11 @@ If you are interested in how these items were selected see the wiki page for [AD
 * Invoke-TrimarcADChecks (Trimarc)
    * [https://github.com/Trimarc/Invoke-TrimarcADChecks](https://github.com/Trimarc/Invoke-TrimarcADChecks)
    * Trimarc has been absorbed by TrustedSec so the links may change.
-* AD ACL Scanner - 
+* AD ACL Scanner 
    * [https://managedpriv.com/project/ad-acl-scanner/](https://managedpriv.com/project/ad-acl-scanner/)
+* ✨ADeleg
+  * https://github.com/mtth-bfft/adeleg
+  * An Active Directory delegation management tool. It allows you to make a detailed inventory of delegations set up so far in a forest, along with their potential issues:
 * ScriptSentry 
   *  [https://github.com/techspence/ScriptSentry](https://github.com/techspence/ScriptSentry)
   *  Helps identify and find dangerous logon scripts.
@@ -90,6 +104,10 @@ If you are interested in how these items were selected see the wiki page for [AD
 *  ❔Harden-Sysvol
    *  https://github.com/dakhama-mehdi/Harden-Sysvol
    *  "HardenSysvol is an open-source tool developed by the HardenAD Community to complement Active Directory audit tools by analyzing GPOs and scripts on Sysvol folder."
+*  ❔AdminDroid
+    *  https://downloads.admindroid.com/downloads/AdminDroid%20365.exe
+    *  AdminDroid's free Active Directory tool offers 10 dashboards and 200+ pre-built reports on users, groups, group membership, computers, contacts, OUs, GPOs, etc.
+    *  This hasn't been fully reviewed to see how far the trial goes. Be cautious as you look into this.
 
 ## Generic Scanning / Vulnerability Tools
 * Wazuh - Open Source SIEM/XDR Solution
@@ -212,7 +230,10 @@ If you are interested in how these items were selected see the wiki page for [AD
    * Enables a quick build of several kinds of vuln testing labs. Allows for a quick-lab of the GOAD content and some others.
    * **MOD NOTE -** This is a neat tool but requires A LOT to get it up and running
 * VulnerableAD - perfect for creating a vulnerable AD environment - [https://github.com/WazeHell/vulnerable-AD](https://github.com/WazeHell/vulnerable-AD)
+* New-Lab-Structure - Helps build a realistic-ish AD deployment for labbing - https://github.com/dcdiagfix/New-Lab-Structure/
+* ADCSGoat - "A tiny module built for a single purpose: building a small and very insecure AD CS lab." - https://github.com/jakehildreth/ADCSGoat
 
 # CHANGE LOG
-* Updated 2024-04 - Included more tools from reddit and from issues. 
+* Updated 2025-10 - Included more tools and some minor formatting cleanup.
+* Updated 2025-04 - Included more tools from reddit and from issues. 
 * Created 2025-01
