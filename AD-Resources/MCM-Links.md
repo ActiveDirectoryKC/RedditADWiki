@@ -93,8 +93,9 @@ Most of the recent additions will be marked with \*\*.
 * DCDIAG Technical Reference: What does DCDIAG Actually... do? [https://techcommunity.microsoft.com/t5/ask-the-directory-services-team/what-does-dcdiag-actually-amp-8230-do/ba-p/399023](https://techcommunity.microsoft.com/t5/ask-the-directory-services-team/what-does-dcdiag-actually-amp-8230-do/ba-p/399023) [https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-server-2012-r2-and-2012/cc731968(v=ws.11)](https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-server-2012-r2-and-2012/cc731968(v=ws.11))
 * High Water Mark and Up To Dateness Vector (These are the updates you are looking for) [https://techcommunity.microsoft.com/t5/microsoft-entra-azure-ad-blog/these-are-the-updates-you-are-looking-for/ba-p/243188](https://techcommunity.microsoft.com/t5/microsoft-entra-azure-ad-blog/these-are-the-updates-you-are-looking-for/ba-p/243188)
 
-# AdminSDHolder *
-
+# AdminSDHolder \*\*
+* AdminSDHolder Misconceptions & Misconfigurations \[3rd Party\] - https://specterops.io/wp-content/uploads/sites/3/2025/10/AdminSDHolder_-Misconceptions-Misconfigurations.pdf
+  * **MOD NOTE**: Better than any existing Microsoft reference.  
 * AdminSDHolder [https://learn.microsoft.com/en-us/previous-versions/technet-magazine/ee361593(v=msdn.10)](https://learn.microsoft.com/en-us/previous-versions/technet-magazine/ee361593(v=msdn.10))
 * Five Common Questions about AdminSDHolder (MS Blog) [https://techcommunity.microsoft.com/t5/ask-the-directory-services-team/five-common-questions-about-adminsdholder-and-sdprop/ba-p/396293](https://techcommunity.microsoft.com/t5/ask-the-directory-services-team/five-common-questions-about-adminsdholder-and-sdprop/ba-p/396293)
 * AdminSDHolder - Pitfalls and Misunderstandings [https://secureidentity.se/adminsdholder-pitfalls-and-misunderstandings/](https://secureidentity.se/adminsdholder-pitfalls-and-misunderstandings/)
@@ -695,6 +696,9 @@ Most of the recent additions will be marked with \*\*.
 ## Read Only Domain Controller
 * Read-Only Domain Controller Planning and Deployment Guide [https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-server-2008-R2-and-2008/cc771744(v=ws.10)](https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-server-2008-R2-and-2008/cc771744(v=ws.10))
 * Understanding Planning and Deployment for Read-Only Domain Controllers [https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-server-2008-R2-and-2008/cc754719(v=ws.10)](https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-server-2008-R2-and-2008/cc754719(v=ws.10))
+
+# Change Log
+2025-11 - Added SpectreOps AdminSDHolder article
 * RODC Branch Office Guide [https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-server-2008-R2-and-2008/dd734758(v=ws.10)](https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-server-2008-R2-and-2008/dd734758(v=ws.10))
 * Appendix A: RODC Technical Reference Topics [https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-server-2008-R2-and-2008/cc754218(v=ws.10)](https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-server-2008-R2-and-2008/cc754218(v=ws.10))
 * Appendix B: RODC Related Events [https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-server-2008-R2-and-2008/cc742416(v=ws.10)](https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-server-2008-R2-and-2008/cc742416(v=ws.10))
