@@ -50,7 +50,7 @@ Obviously, Reddits rules and TOS must be followed. You have no choice.
 
 # 4. Excessive Advertising/Self Promotion/Blogs
 
-* Don't exclusively advertise. 100% Spam posts will be deleted. 
+* Unreleated advertisements or low-effort advertisements will be deleted. Repeated offenses will come with a ban.
 * Blogs/Channels/Personal Projects. There is nothing wrong with posting relevent blog/project (e.g., GitHub) content.
     * Your content should be relevent to Active Directory, Entra ID, AD CS, Okta, or Identity in some way.
     * Posts should be about free products without prior mod approval. No trials, the product needs to be useful outside of a trial.
@@ -67,9 +67,9 @@ Obviously, Reddits rules and TOS must be followed. You have no choice.
        * Exceptions can occur, but will be on a case by case basis.
    * **IF YOUR CONTENT HAS BEEN STARRED ON THE WIKI** - You may link it whenever relevent.
        * These tools have been deemed by the mods/community to be highly useful tools deserving of recommendation. 
-       * If you work for Semperis, you may post about Purple Knight anytime the discussion warrants it.
+       * For example, Purple Knight has been starred. Anyone may recommend it without question, even if they work for Semperis. 
     * Concequences
-         * Unrelated or otherwise rule violating content - Content deleted and immediate ban.   
+         * Unrelated/Low-effort "spam" or otherwise rule violating content - Content deleted and immediate ban.   
          * First offense: Content deleted and warning issued.
          * Second offense: Content deleted and you'll be flagged for mod review for up to a year.
          * Third offense: Content deleted. Perma-ban.
@@ -77,13 +77,13 @@ Obviously, Reddits rules and TOS must be followed. You have no choice.
 # 5. Referral Links/Short URLs
 
 * Referral or Affiliate links are not welcome. Don't come here to sell stuff.
-* Shortened URLs will be removed and the poster warned.
+* Shortened URLs will be removed and the poster warned. __NOTE__: I know sometimes LinkedIn and others do this automatically. We'll let you know and give you a chance to fix it. 
 
 # 6. Doxxing/Trim Identifying Information
 
 * When posting content or commenting, make sure and trim any identifying information about your environment or location from the message. These posts will be deleted and the user warned.
 * Users are allowed to identify themselves. However, posting of any address, phone, or email is not allowed.
-   * If this needs communicated do it via chat or direct message.
+   * If you want to share this, do it via direct message or chat.
 * Users are not allowed to identify anyone else who hasn't "outted" themselves publicly.
 
 **Change Log**
