@@ -74,9 +74,9 @@ If you are interested in how these items were selected see the wiki page for [AD
    * [https://github.com/BloodHound](https://github.com/BloodHound)
    * Almost every EDR/XDR/ITDR tool will pick up on this and alert. Be warned.
 * ✨CayoSoft Guardian Protector
-  * https://resources.cayosoft.com/download-cayosoft-protector
-  * Provides many services including some Real-Time AD Vulnerability Scanning and Change Monitoring.
-  * Requires an email address (you can get by with a fake "business" email) and is effectively a reduced version of the main product. It is limited in how long it can track changes, the RBAC is basically non-existant, and it is kind of "ad heavy" pushing you upgrade to the paid version. It is useful and worth considering.
+    * https://resources.cayosoft.com/download-cayosoft-protector
+    * Provides many services including some Real-Time AD Vulnerability Scanning and Change Monitoring.  The app leaves a lot of features off the table in trial/freeware mode and is somewhat limited. Nonetheless, there isn't any other freeware/freemium tool that does change auditing like this currently. 
+    * Requires an email address (you can get by with a fake "business" email) and is effectively a reduced version of the main product. It is limited in how long it can track changes, the RBAC is basically non-existant, and it is kind of "ad heavy" pushing you upgrade to the paid version. It is useful and worth considering.
 * GoodHound - actionable lists from BloodHound - 
    * [https://github.com/idnahacks/GoodHound](https://github.com/idnahacks/GoodHound)
 * ❔AD-Miner
@@ -148,11 +148,6 @@ If you are interested in how these items were selected see the wiki page for [AD
    * [https://github.com/lithnet/access-manager](https://github.com/lithnet/access-manager)
    * Allows for some LAPS/RapidLAPS administration.
    * The free version is limited on JIT roles but effectively as fully featured as the paid.
-* Cayosoft Guardian
-   * [https://www.cayosoft.com/products/guardian/](https://www.cayosoft.com/products/guardian/)
-   * [https://www.cayosoft.com/wp-content/uploads/cayosoft-resources/CayosoftInstaller.exe](https://www.cayosoft.com/wp-content/uploads/cayosoft-resources/CayosoftInstaller.exe)
-   * Includes their Administrator tool as well. The Guardian product is an okay Active Directory change montioring solution in the freeware mode. The app leaves a lot of features off the table in trial/freeware mode.
-   * The Administrator tool is also included but is a pass from my analysis. Perhaps the paid version is useful, but the free one doesn't really do much useful and isn't something I think worth recommending.
 * NetCease Module to help remediate Net Session Enumeration 
    * [https://github.com/p0w3rsh3ll/NetCease](https://github.com/p0w3rsh3ll/NetCease)
 * SpecOps Password Scanner  - 
