@@ -104,10 +104,6 @@ If you are interested in how these items were selected see the wiki page for [AD
 *  ❔Harden-Sysvol
    *  https://github.com/dakhama-mehdi/Harden-Sysvol
    *  "HardenSysvol is an open-source tool developed by the HardenAD Community to complement Active Directory audit tools by analyzing GPOs and scripts on Sysvol folder."
-*  ❔AdminDroid
-    *  https://downloads.admindroid.com/downloads/AdminDroid%20365.exe
-    *  AdminDroid's free Active Directory tool offers 10 dashboards and 200+ pre-built reports on users, groups, group membership, computers, contacts, OUs, GPOs, etc.
-    *  This hasn't been fully reviewed to see how far the trial goes. Be cautious as you look into this.
 
 ## Generic Scanning / Vulnerability Tools
 * Wazuh - Open Source SIEM/XDR Solution
