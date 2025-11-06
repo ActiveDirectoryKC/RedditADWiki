@@ -24,7 +24,7 @@ This link is a Beginner's Guide that provides resources and links to get you off
 * ✨ Wiki General - [https://www.reddit.com/r/activedirectory/wiki/index/](https://www.reddit.com/r/activedirectory/wiki/index/)
 * ✨ Wiki AD-Resources - [https://www.reddit.com/r/activedirectory/wiki/AD-Resources](https://www.reddit.com/r/activedirectory/wiki/AD-Resources)
 * ✨ Wiki MCM-Links - [https://www.reddit.com/r/activedirectory/wiki/AD-Resources/MCM-Links](https://www.reddit.com/r/activedirectory/wiki/AD-Resources/MCM-Links)
-* ✨ Wiki AD-Security Tools - https://www.reddit.com/r/activedirectory/wiki/ad-resources/ad-tools/
+* ✨ Wiki AD Tools - https://www.reddit.com/r/activedirectory/wiki/ad-resources/ad-tools/
 
 # Training and Certifications
 
