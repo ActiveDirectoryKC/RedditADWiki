@@ -784,5 +784,6 @@ Most of the recent additions will be marked with \*\*.
 * FRS Tools and Settings [https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-server-2003/cc786122(v=ws.10)](https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-server-2003/cc786122(v=ws.10))
 
 **Change Log**
-* Updated - 2025-04 - Cleaned up broken links, formatting changes. 
-* Updated - 2025-02 - Moved as sub-page under resources wiki
+* 2025-11 - Added a few updated links
+* 2025-04 - Cleaned up broken links, formatting changes. 
+* 2025-02 - Moved as sub-page under resources wiki
