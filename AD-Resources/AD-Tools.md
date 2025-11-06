@@ -1,4 +1,4 @@
->❗❗❗\[WARNING\]❗❗❗
+>❗❗❗**WARNING**❗❗
 >Many of these tools WILL trip EDR/XDR, ITDR and any intrusion detection scanners. Some of the information gathered is the same information that malicious actors would want to gather. Make sure you communicate with your security team and SOCs before running these tools. You've been warned.
 
 This is a collection of scripts, tools, and general tools that the community has found helpful for Active Directory. We will try to keep this list updated and new tools as we find them. If you think of something that should be added, send a [modmail ](https://www.reddit.com/message/compose?to=r/activedirectory)or post an [issue](https://github.com/ActiveDirectoryKC/RedditADWiki/issues) on the wiki's github and we'll get it added. Likewise if a link is broken let us know.
@@ -195,7 +195,7 @@ If you are interested in how these items were selected see the wiki page for [AD
    * [https://github.com/ryanries/PassFiltEx](https://github.com/ryanries/PassFiltEx)
 * ✨Lithnet Password Protection
    * [https://github.com/lithnet/ad-password-protection](https://github.com/lithnet/ad-password-protection)
-   * A really good altnerative to other tools. (not starred because I haven't completed my testing)
+   * A really good alternative to other tools. (not starred because I haven't completed my testing)
 
 # In-Built Microsoft Tools (On-Prem)
 
