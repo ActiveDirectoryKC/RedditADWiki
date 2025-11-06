@@ -66,11 +66,22 @@ If you are interested in how these items were selected see the wiki page for [AD
 * ✨BlueTuxedo - [[https://github.com/jakehildreth/BlueTuxedo](https://github.com/jakehildreth/BlueTuxedo)
    * "A tiny tool built to find an dfix common misconfigurations in AD-Integrated DNS..."
    * Finds stuff in DNS you may not find.
+* Stairs by Jake Hildreth
+  * https://github.com/jakehildreth/Stairs
+  * "A tiny tool for identifying AD CS issue combinations that may not be readily obvious"
+  * Consider this an extension of Locksmith in many ways. 
 * 💥BloodHound/SharpHound - Attack Path Analysis
    * [https://github.com/BloodHound](https://github.com/BloodHound)
    * Almost every EDR/XDR/ITDR tool will pick up on this and alert. Be warned.
+* ✨CayoSoft Guardian Protector
+    * https://resources.cayosoft.com/download-cayosoft-protector
+    * Provides many services including some Real-Time AD Vulnerability Scanning and Change Monitoring.  The app leaves a lot of features off the table in trial/freeware mode and is somewhat limited. Nonetheless, there isn't any other freeware/freemium tool that does change auditing like this currently. 
+    * Requires an email address (you can get by with a fake "business" email) and is effectively a reduced version of the main product. It is limited in how long it can track changes, the RBAC is basically non-existant, and it is kind of "ad heavy" pushing you upgrade to the paid version. It is useful and worth considering.
 * GoodHound - actionable lists from BloodHound - 
    * [https://github.com/idnahacks/GoodHound](https://github.com/idnahacks/GoodHound)
+* ❔AD-Miner
+  * https://github.com/AD-Security/AD_Miner
+  * AD Miner is an Active Directory (on-premise and Entra ID) auditing tool that analyzes BloodHound data into a web-based report.
 * Adalanche - AD ACL Explorer/Visualizer
    * [https://github.com/lkarlslund/Adalanche](https://github.com/lkarlslund/Adalanche)
 * Trimarc AD Checks - Sean Metcalf (ADSecurity.org)
@@ -79,8 +90,11 @@ If you are interested in how these items were selected see the wiki page for [AD
 * Invoke-TrimarcADChecks (Trimarc)
    * [https://github.com/Trimarc/Invoke-TrimarcADChecks](https://github.com/Trimarc/Invoke-TrimarcADChecks)
    * Trimarc has been absorbed by TrustedSec so the links may change.
-* AD ACL Scanner - 
+* AD ACL Scanner 
    * [https://managedpriv.com/project/ad-acl-scanner/](https://managedpriv.com/project/ad-acl-scanner/)
+* ✨ADeleg
+  * https://github.com/mtth-bfft/adeleg
+  * An Active Directory delegation management tool. It allows you to make a detailed inventory of delegations set up so far in a forest, along with their potential issues:
 * ScriptSentry 
   *  [https://github.com/techspence/ScriptSentry](https://github.com/techspence/ScriptSentry)
   *  Helps identify and find dangerous logon scripts.
@@ -134,11 +148,6 @@ If you are interested in how these items were selected see the wiki page for [AD
    * [https://github.com/lithnet/access-manager](https://github.com/lithnet/access-manager)
    * Allows for some LAPS/RapidLAPS administration.
    * The free version is limited on JIT roles but effectively as fully featured as the paid.
-* Cayosoft Guardian
-   * [https://www.cayosoft.com/products/guardian/](https://www.cayosoft.com/products/guardian/)
-   * [https://www.cayosoft.com/wp-content/uploads/cayosoft-resources/CayosoftInstaller.exe](https://www.cayosoft.com/wp-content/uploads/cayosoft-resources/CayosoftInstaller.exe)
-   * Includes their Administrator tool as well. The Guardian product is an okay Active Directory change montioring solution in the freeware mode. The app leaves a lot of features off the table in trial/freeware mode.
-   * The Administrator tool is also included but is a pass from my analysis. Perhaps the paid version is useful, but the free one doesn't really do much useful and isn't something I think worth recommending.
 * NetCease Module to help remediate Net Session Enumeration 
    * [https://github.com/p0w3rsh3ll/NetCease](https://github.com/p0w3rsh3ll/NetCease)
 * SpecOps Password Scanner  - 
@@ -212,7 +221,10 @@ If you are interested in how these items were selected see the wiki page for [AD
    * Enables a quick build of several kinds of vuln testing labs. Allows for a quick-lab of the GOAD content and some others.
    * **MOD NOTE -** This is a neat tool but requires A LOT to get it up and running
 * VulnerableAD - perfect for creating a vulnerable AD environment - [https://github.com/WazeHell/vulnerable-AD](https://github.com/WazeHell/vulnerable-AD)
+* New-Lab-Structure - Helps build a realistic-ish AD deployment for labbing - https://github.com/dcdiagfix/New-Lab-Structure/
+* ADCSGoat - "A tiny module built for a single purpose: building a small and very insecure AD CS lab." - https://github.com/jakehildreth/ADCSGoat
 
 # CHANGE LOG
-* Updated 2024-04 - Included more tools from reddit and from issues. 
+* Updated 2025-10 - Included more tools and some minor formatting cleanup.
+* Updated 2025-04 - Included more tools from reddit and from issues. 
 * Created 2025-01
