@@ -1,7 +1,7 @@
 # AD Beginners Guide / New to Active Directory / Getting Started with AD?
 There are a lot of resources online for Active Directory. There are a lot of resources in this wiki. It can be kind of daunting to know where to start. This page will try to help with that.
 
-Below there are sections tagged as either Beginner or Intermediate to establish a bit of a learning track. There is also a pre-requisitie knowledge section that just lists some topics it would help to be familiar with before diving in. Lastly, sections are tagged with the type of resoruce they are and whether or not they cost. Most resources here are free, but a few (books mostly) cost.
+Below there are sections tagged as either Beginner or Intermediate to establish a bit of a learning track. There is also a pre-requisitie knowledge section that just lists some topics it would help to be familiar with before diving in. Lastly, sections are tagged with the type of resource they are and whether or not they cost. Most resources here are free, but a few (books mostly) cost.
 
 
 ## Pre-requisite Knowledge
@@ -69,7 +69,7 @@ Below there are sections tagged as either Beginner or Intermediate to establish 
 
 ## Advanced
 
-Going beyond what's listed is very much up to you and where your jouney is taking you. That said, never forget the fudamentals. Here are our recommendations for advancing, in any case.
+Going beyond what's listed is very much up to you and where your jouney is taking you. That said, never forget the fundamentals. Here are our recommendations for advancing, in any case.
   1. Review as many/all the items on this page and make sure you understand it before moving on.
   2. Review the MCM Links Resource and start working through those articles: https://www.reddit.com/r/activedirectory/wiki/ad-resources/mcm-links/
   3. Review the lists of blogs and podcasts and start diving into technology conversations more: https://www.reddit.com/r/activedirectory/wiki/ad-resources
