@@ -285,6 +285,7 @@ This link is a Beginner's Guide that provides resources and links to get you off
   * https://www.youtube.com/@ZeroTrustJourney
 
 # CHANGE LOG
+
 * Updated 2025-11 with new Links - Reorganized some, added more Blogs and Podcasts, added new resources, and starred a few "must have" tools. 
 * Updated 2025-04 with new links - Firewall Links and STIG Updates
 * Updated 2025-02 with link updates. 
