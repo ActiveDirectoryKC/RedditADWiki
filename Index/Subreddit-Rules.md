@@ -54,7 +54,7 @@ Obviously, Reddits rules and TOS must be followed. You have no choice.
 * Blogs/Channels/Personal Projects. There is nothing wrong with posting relevent blog/project (e.g., GitHub) content.
     * Your content should be relevent to Active Directory, Entra ID, AD CS, Okta, or Identity in some way.
     * Posts should be about free products without prior mod approval. No trials, the product needs to be useful outside of a trial.
-        * More details: https://github.com/ActiveDirectoryKC/RedditADWiki/blob/2025-10-Update/Index/Tools-And-Resources-Listing-Guidelines.md  
+        * More details: https://www.reddit.com/r/activedirectory/wiki/index/tools-and-resources-listing-guidelines/
     * Comments may include product suggestions if the conversation warrants it or OP asks. These can be paid for products.
         * Paid products will receive HEAVY review. 
     * No more than one post referencing your blog, channel, etc. per month.
