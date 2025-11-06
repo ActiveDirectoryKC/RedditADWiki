@@ -31,6 +31,7 @@ Below there are sections tagged as either Beginner or Intermediate to establish 
   - How to configure firewall for Active Directory domains and trusts -	https://learn.microsoft.com/en-us/troubleshoot/windows-server/active-directory/config-firewall-for-ad-domains-and-trusts
   - Kerberos for the Busy Admin - https://techcommunity.microsoft.com/blog/askds/kerberos-for-the-busy-admin/395083
   - Active Directory Replication Concepts - https://learn.microsoft.com/en-us/windows-server/identity/ad-ds/get-started/replication/active-directory-replication-concepts
+  - Securing AD Service Accounts - https://github.com/dcdiagfix/AD-ServiceAccounts-FUNdamentals/blob/main/AD-ServiceAccounts-FUNdamentals.md
 - [FREE] Lab Guides/Tools
   - AutomatedLab - https://github.com/AutomatedLab/AutomatedLab
   - LUDUS - https://docs.ludus.cloud/docs/intro
@@ -67,8 +68,13 @@ Below there are sections tagged as either Beginner or Intermediate to establish 
     - https://www.pingcastle.com/download/
 
 ## Advanced
-Going beyond what's listed here is up to where you want to go. The only suggestions that can be made is 1) make sure you master all of the items above and to 2) review the MCM Links Resource and start working through those links: https://www.reddit.com/r/activedirectory/wiki/ad-resources/mcm-links/. 
+Going beyond what's listed is very much up to you and where your jouney is taking you. That said, never forget the fudamentals. Here are our recommendations for advancing, in any case.
+  1. Review as many/all the items on this page and make sure you understand it before moving on.
+  2. Review the MCM Links Resource and start working through those articles: https://www.reddit.com/r/activedirectory/wiki/ad-resources/mcm-links/
+  3. Review the lists of blogs and podcasts and start diving into technology conversations more: https://github.com/ActiveDirectoryKC/RedditADWiki/blob/2025-10-Update/AD-Resources/README.md
+  4. LAB. Play with what you can where you can. 
 
 # Change Log
+- 2025-11 Added more resources. 
 - Initial Release - 2025-04
 
