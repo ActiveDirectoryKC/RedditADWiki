@@ -71,7 +71,7 @@ Below there are sections tagged as either Beginner or Intermediate to establish 
 Going beyond what's listed is very much up to you and where your jouney is taking you. That said, never forget the fudamentals. Here are our recommendations for advancing, in any case.
   1. Review as many/all the items on this page and make sure you understand it before moving on.
   2. Review the MCM Links Resource and start working through those articles: https://www.reddit.com/r/activedirectory/wiki/ad-resources/mcm-links/
-  3. Review the lists of blogs and podcasts and start diving into technology conversations more: https://github.com/ActiveDirectoryKC/RedditADWiki/blob/2025-10-Update/AD-Resources/README.md
+  3. Review the lists of blogs and podcasts and start diving into technology conversations more: https://www.reddit.com/r/activedirectory/wiki/ad-resources
   4. LAB. Play with what you can where you can. 
 
 # Change Log
