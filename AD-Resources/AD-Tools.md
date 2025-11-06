@@ -225,6 +225,7 @@ If you are interested in how these items were selected see the wiki page for [AD
 * ADCSGoat - "A tiny module built for a single purpose: building a small and very insecure AD CS lab." - https://github.com/jakehildreth/ADCSGoat
 
 # CHANGE LOG
+
 * Updated 2025-10 - Included more tools and some minor formatting cleanup.
 * Updated 2025-04 - Included more tools from reddit and from issues. 
 * Created 2025-01
