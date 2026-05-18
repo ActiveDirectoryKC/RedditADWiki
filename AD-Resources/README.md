@@ -210,12 +210,13 @@ This link is a Beginner's Guide that provides resources and links to get you off
 
 **Individual Blogs** \- These blogs are individual blogs or first party blogs relating to AD (i.e., from Microsoft). Some of these blogs may belong to mods or community members.
 
-* ✨ https://techcommunity.microsoft.com/category/cis/blog/coreinfrastructureandsecurityblog
-* [https://www.microsoft.com/en-us/windows-server/blog/](https://www.microsoft.com/en-us/windows-server/blog/)
+* ✨https://techcommunity.microsoft.com/category/cis/blog/coreinfrastructureandsecurityblog
+* ✨[https://www.microsoft.com/en-us/windows-server/blog/](https://www.microsoft.com/en-us/windows-server/blog/)
 * ✨[https://jorgequestforknowledge.wordpress.com/](https://jorgequestforknowledge.wordpress.com/)
 * ✨ [https://syfuhs.net/](https://syfuhs.net/)
 * ✨[https://blogs.chrisse.se/](https://blogs.chrisse.se/)
 * ✨[https://adsecurity.org](https://adsecurity.org)
+* ✨[https://michaelwaterman.nl/](https://michaelwaterman.nl/)
 * [https://aadinternals.com/](https://aadinternals.com/)
 * ✨[https://michaelwaterman.nl/](https://michaelwaterman.nl/)
 * [https://www.gradenegger.eu/en/](https://www.gradenegger.eu/en/)
@@ -287,8 +288,6 @@ This link is a Beginner's Guide that provides resources and links to get you off
 
 # CHANGE LOG
 
-* Updated 2026-05 - New Links + Link fixes and validation.
+* Updated 2026-05 with new links and stars. 
 * Updated 2025-11 with new Links - Reorganized some, added more Blogs and Podcasts, added new resources, and starred a few "must have" tools. 
 * Updated 2025-04 with new links - Firewall Links and STIG Updates
-* Updated 2025-02 with link updates. 
-* Updated 2025-01 with new links, more training options, and more tools. Also created off-reddit wiki page for tracking the details.**
