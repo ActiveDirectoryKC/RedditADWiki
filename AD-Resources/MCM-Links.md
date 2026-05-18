@@ -606,10 +606,28 @@ Most of the recent additions will be marked with \*\*.
 * How to restirct Active Directory RPC traffic to a specific port [https://learn.microsoft.com/en-us/troubleshoot/windows-server/identity/restrict-ad-rpc-traffic-to-specific-port](https://learn.microsoft.com/en-us/troubleshoot/windows-server/identity/restrict-ad-rpc-traffic-to-specific-port)
 
 # New Features Per Server Version
-## Server 2025 **
-  * TBD... 2025-05/06
+## Server 2025 \*\*
+> NOTE: There were LOTS of little changes in Server 2025. I'm not listing every one right now. Please review the "What's New Link" for specifics. 
+  * What's New in Windows Server 2025 \*\* [https://learn.microsoft.com/en-us/windows-server/get-started/whats-new-windows-server-2025](https://learn.microsoft.com/en-us/windows-server/get-started/whats-new-windows-server-2025)
+  * Schema Updates in Server 2025 \*\* [https://learn.microsoft.com/en-us/windows-server/identity/ad-ds/deploy/schema-updates](https://learn.microsoft.com/en-us/windows-server/identity/ad-ds/deploy/schema-updates)
+  * Credential Guard - Enabled by Default \*\* [https://learn.microsoft.com/en-us/windows/security/identity-protection/credential-guard/configure?tabs=intune](https://learn.microsoft.com/en-us/windows/security/identity-protection/credential-guard/configure?tabs=intune)
+  * 32K Page Files (Optional Feature) \*\* [https://learn.microsoft.com/en-us/windows-server/identity/ad-ds/enable-32k-pages-optional-feature?tabs=desktop](https://learn.microsoft.com/en-us/windows-server/identity/ad-ds/enable-32k-pages-optional-feature?tabs=desktop)
+   * 32K Page File Sizes and WS2025 - Issues \*\* [https://jorgequestforknowledge.wordpress.com/2025/11/14/32k-pages-size-vs-8k-pages-size-on-w2k25-dcs-that-could-be-a-problem/](https://jorgequestforknowledge.wordpress.com/2025/11/14/32k-pages-size-vs-8k-pages-size-on-w2k25-dcs-that-could-be-a-problem/)
+   * 32K Page File Sizes and WS2025 - Issues #2 \*\* [https://blog.chrisse.se/?p=1337](https://blog.chrisse.se/?p=1337)
+   * AD Maximum Limits and Scalability \*\* [https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-server-2003/cc756101(v=ws.10)](https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-server-2003/cc756101(v=ws.10))
+   * LDAP Channel Binding Auditing \*\* [https://support.microsoft.com/en-us/topic/2020-2023-and-2024-ldap-channel-binding-and-ldap-signing-requirements-for-windows-kb4520412-ef185fb8-00f7-167d-744c-f299a66fc00a](https://support.microsoft.com/en-us/topic/2020-2023-and-2024-ldap-channel-binding-and-ldap-signing-requirements-for-windows-kb4520412-ef185fb8-00f7-167d-744c-f299a66fc00a)
+   * Improvements to DC Locator \*\* [https://learn.microsoft.com/en-us/windows-server/identity/ad-ds/manage/dc-locator?tabs=dns-based-discovery](https://learn.microsoft.com/en-us/windows-server/identity/ad-ds/manage/dc-locator?tabs=dns-based-discovery)
+   * DC Locator - End of Remote Mailslots \*\* [https://learn.microsoft.com/en-us/windows-server/identity/ad-ds/manage/dc-locator?tabs=dns-based-discovery](https://learn.microsoft.com/en-us/windows-server/identity/ad-ds/manage/dc-locator?tabs=dns-based-discovery)
+   * Delegated Managed Service Accounts (dMSA) \*\* [https://learn.microsoft.com/en-us/windows-server/identity/ad-ds/manage/delegated-managed-service-accounts/delegated-managed-service-accounts-overview](https://learn.microsoft.com/en-us/windows-server/identity/ad-ds/manage/delegated-managed-service-accounts/delegated-managed-service-accounts-overview)
+   * Updates to Windows LAPS \*\* [https://learn.microsoft.com/en-us/windows-server/identity/laps/laps-concepts-account-management-modes](https://learn.microsoft.com/en-us/windows-server/identity/laps/laps-concepts-account-management-modes)
+   * More on Windows LAPS \*\* [https://learn.microsoft.com/en-us/windows-server/identity/laps/laps-overview](https://learn.microsoft.com/en-us/windows-server/identity/laps/laps-overview)
+   * TLS: Deprecation of weak RSA certificates \*\* [https://techcommunity.microsoft.com/blog/windows-itpro-blog/tls-server-authentication-deprecation-of-weak-rsa-certificates/4134028](https://techcommunity.microsoft.com/blog/windows-itpro-blog/tls-server-authentication-deprecation-of-weak-rsa-certificates/4134028)
+   * NTLMv1 EOL \*\* [https://support.microsoft.com/en-us/topic/upcoming-changes-to-ntlmv1-in-windows-11-version-24h2-and-windows-server-2025-c0554217-cdbc-420f-b47c-e02b2db49b2e](https://support.microsoft.com/en-us/topic/upcoming-changes-to-ntlmv1-in-windows-11-version-24h2-and-windows-server-2025-c0554217-cdbc-420f-b47c-e02b2db49b2e)
+   * Turn off NTLMv1 in SMB \*\* [https://learn.microsoft.com/en-us/windows-server/storage/file-server/smb-ntlm-blocking?tabs=group-policy](https://learn.microsoft.com/en-us/windows-server/storage/file-server/smb-ntlm-blocking?tabs=group-policy)
 ## Server 2019/2022
-  * These versions of Windows server had minimal, if any changes to Active Directory.
+  > NOTE: There weren't many significant changes in Server 2019/2022 for AD.
+  * Server 2022: What's New In Server 2022 \*\* [https://learn.microsoft.com/en-us/windows-server/get-started/whats-new-in-windows-server-2022](https://learn.microsoft.com/en-us/windows-server/get-started/whats-new-in-windows-server-2022)
+  * Server 2019: What's New in Server 2019 \*\* [https://learn.microsoft.com/en-us/windows-server/get-started/whats-new-in-windows-server-2019](https://learn.microsoft.com/en-us/windows-server/get-started/whats-new-in-windows-server-2019)
 ## Server 2016 Features **
 * What's New In Active Directory Domain Services for Windows Server 2016  \*\* [https://learn.microsoft.com/en-us/windows-server/identity/whats-new-active-directory-domain-services](https://learn.microsoft.com/en-us/windows-server/identity/whats-new-active-directory-domain-services)
 * Privileged Access Management Optional Feature \*\* [https://learn.microsoft.com/en-us/openspecs/windows\_protocols/ms-adts/d079eee8-1bac-4b03-86e4-506a21450905](https://learn.microsoft.com/en-us/openspecs/windows_protocols/ms-adts/d079eee8-1bac-4b03-86e4-506a21450905)
