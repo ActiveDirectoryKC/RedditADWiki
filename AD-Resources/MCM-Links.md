@@ -648,6 +648,7 @@ Most of the recent additions will be marked with \*\*.
   * Active Directory Domain Services Virtualization \*\* [https://learn.microsoft.com/en-us/windows-server/identity/ad-ds/get-started/virtual-dc/active-directory-domain-services-virtualization](https://learn.microsoft.com/en-us/windows-server/identity/ad-ds/get-started/virtual-dc/active-directory-domain-services-virtualization)
   * Virtualized Domain Controller Cloning Test Gudiance for Applicaiton Vendors \*\* [https://learn.microsoft.com/en-us/windows-server/identity/ad-ds/reference/virtual-dc/virtualized-domain-controller-cloning-test-guidance-for-application-vendors](https://learn.microsoft.com/en-us/windows-server/identity/ad-ds/reference/virtual-dc/virtualized-domain-controller-cloning-test-guidance-for-application-vendors)
 * Dynamic Access Control (DAC)
+  * Dynamic Access Control Overview \*\* - [https://learn.microsoft.com/en-us/windows-server/identity/solution-guides/dynamic-access-control-overview](https://learn.microsoft.com/en-us/windows-server/identity/solution-guides/dynamic-access-control-overview)
   * Introduction to Windows Server 2012 Dynamic Access Control [https://cloudblogs.microsoft.com/windowsserver/2012/05/22/introduction-to-windows-server-2012-dynamic-access-control/](https://cloudblogs.microsoft.com/windowsserver/2012/05/22/introduction-to-windows-server-2012-dynamic-access-control/)
   * Understand and Troubleshoot Dynamic Access Control in Windows Server 2012 (docx) [https://download.microsoft.com/download/C/2/0/C200CF47-1303-4E7F-8AA9-23265EB595A6/UTG-DynamicAccessControl-Feb2013%20.docx](https://download.microsoft.com/download/C/2/0/C200CF47-1303-4E7F-8AA9-23265EB595A6/UTG-DynamicAccessControl-Feb2013%20.docx)
   * Getting started with Central Access Policies- Reducing security group complexity and achieving data access compliance using Dynamic Access Control [https://techcommunity.microsoft.com/t5/storage-at-microsoft/getting-started-with-central-access-policies-reducing-security/ba-p/424392](https://techcommunity.microsoft.com/t5/storage-at-microsoft/getting-started-with-central-access-policies-reducing-security/ba-p/424392)
@@ -655,7 +656,7 @@ Most of the recent additions will be marked with \*\*.
   * Scenario: Central Access Policy - https://learn.microsoft.com/en-us/windows-server/identity/solution-guides/scenario--central-access-policy
   * Dynamic Access Contro: Scenario Overivew - https://learn.microsoft.com/en-us/windows-server/identity/solution-guides/dynamic-access-control--scenario-overview
   * Deploy a Central Access Policy (Demonstration Steps) - https://learn.microsoft.com/en-us/windows-server/identity/solution-guides/deploy-a-central-access-policy--demonstration-steps-
-  * Dynamic Access Control: Scenario Overview \*\* [https://learn.microsoft.com/en-us/windows-server/identity/solution-guides/dynamic-access-control](https://learn.microsoft.com/en-us/windows-server/identity/solution-guides/dynamic-access-control) \-scenario-overview
+  * Dynamic Access Control: Scenario Overview \*\* [https://learn.microsoft.com/en-us/windows-server/identity/solution-guides/dynamic-access-control-scenario-overvie](https://learn.microsoft.com/en-us/windows-server/identity/solution-guides/dynamic-access-control-scenario-overview)
   * Manage Risk with Conditional Access Control \*\* [https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-server-2012-r2-and-2012/dn280937(v=ws.11)](https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-server-2012-r2-and-2012/dn280937(v=ws.11))
   * Manage Risk with Additional Multi-Factor Authentication for Sensitive Applications \*\* [https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-server-2012-r2-and-2012/dn280949(v=ws.11)](https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-server-2012-r2-and-2012/dn280949(v=ws.11))
 * Kerberos 
@@ -697,9 +698,6 @@ Most of the recent additions will be marked with \*\*.
 ## Read Only Domain Controller
 * Read-Only Domain Controller Planning and Deployment Guide [https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-server-2008-R2-and-2008/cc771744(v=ws.10)](https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-server-2008-R2-and-2008/cc771744(v=ws.10))
 * Understanding Planning and Deployment for Read-Only Domain Controllers [https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-server-2008-R2-and-2008/cc754719(v=ws.10)](https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-server-2008-R2-and-2008/cc754719(v=ws.10))
-
-# Change Log
-2025-11 - Added SpectreOps AdminSDHolder article
 * RODC Branch Office Guide [https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-server-2008-R2-and-2008/dd734758(v=ws.10)](https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-server-2008-R2-and-2008/dd734758(v=ws.10))
 * Appendix A: RODC Technical Reference Topics [https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-server-2008-R2-and-2008/cc754218(v=ws.10)](https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-server-2008-R2-and-2008/cc754218(v=ws.10))
 * Appendix B: RODC Related Events [https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-server-2008-R2-and-2008/cc742416(v=ws.10)](https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-server-2008-R2-and-2008/cc742416(v=ws.10))
@@ -784,7 +782,8 @@ Most of the recent additions will be marked with \*\*.
 * FRS Tools and Settings [https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-server-2003/cc786122(v=ws.10)](https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-server-2003/cc786122(v=ws.10))
 
 **Change Log**
-
+* 2026-05 - Minor update links
+* 2025-11 - SpectreOps
 * 2025-11 - Added a few updated links
 * 2025-04 - Cleaned up broken links, formatting changes. 
 * 2025-02 - Moved as sub-page under resources wiki
