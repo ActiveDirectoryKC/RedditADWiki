@@ -72,7 +72,7 @@ If you are interested in how these items were selected see the wiki page for [AD
    * This is a must have when running PKI.
 * Locksmith 2 [https://github.com/jakehildreth/Locksmith2](https://github.com/jakehildreth/Locksmith2)
   * This is the successor to Locksmith. It is still being worked on but it will be the future.  
-* ✨BlueTuxedo - [[https://github.com/jakehildreth/BlueTuxedo](https://github.com/jakehildreth/BlueTuxedo)
+* ✨BlueTuxedo - [https://github.com/jakehildreth/BlueTuxedo](https://github.com/jakehildreth/BlueTuxedo)
    * "A tiny tool built to find an dfix common misconfigurations in AD-Integrated DNS..."
    * Finds stuff in DNS you may not find.
 * Stairs by Jake Hildreth
@@ -80,7 +80,7 @@ If you are interested in how these items were selected see the wiki page for [AD
   * "A tiny tool for identifying AD CS issue combinations that may not be readily obvious"
   * Consider this an extension of Locksmith in many ways. 
 * 💥BloodHound/SharpHound - Attack Path Analysis
-   * [https://github.com/BloodHound](https://github.com/BloodHound)
+   * [https://github.com/SpecterOps/BloodHound](https://github.com/SpecterOps/BloodHound)
    * Almost every EDR/XDR/ITDR tool will pick up on this and alert. Be warned.
 * ✨CayoSoft Guardian Protector
     * https://resources.cayosoft.com/download-cayosoft-protector
