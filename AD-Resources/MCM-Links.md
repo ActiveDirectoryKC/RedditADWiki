@@ -4,7 +4,7 @@ The MCSM was a certification offered by Microsoft up until about 2014. Few obtai
 
 Lucky for us, the reading list was published. This list has been recently curated and the links updated. Microsoft has been on a delete-spree in recent years (2016+) and many of the links originally listed were moved, removed, or altered. Additionally, some more current information has been included for recent server versions (Post 2012) and a few extra links that have since been published have been included.
 
-As always, please send a [modmail ](https://www.reddit.com/message/compose?to=r/activedirectory)or post an [issue](https://github.com/ActiveDirectoryKC/RedditADWiki/issues) on the wiki's github if you thing something needs added or removed or if a link is broken
+As always, please send a [modmail ](https://www.reddit.com/message/compose?to=r/activedirectory)or post an [issue](https://github.com/ActiveDirectoryKC/RedditADWiki/issues) on the wiki's github if you thing something needs added or removed or if a link is broken
 
 Most of the recent additions will be marked with \*\*.
 
@@ -608,6 +608,7 @@ Most of the recent additions will be marked with \*\*.
 # New Features Per Server Version
 ## Server 2025 \*\*
 > NOTE: There were LOTS of little changes in Server 2025. I'm not listing every one right now. Please review the "What's New Link" for specifics. 
+  
   * What's New in Windows Server 2025 \*\* [https://learn.microsoft.com/en-us/windows-server/get-started/whats-new-windows-server-2025](https://learn.microsoft.com/en-us/windows-server/get-started/whats-new-windows-server-2025)
   * Schema Updates in Server 2025 \*\* [https://learn.microsoft.com/en-us/windows-server/identity/ad-ds/deploy/schema-updates](https://learn.microsoft.com/en-us/windows-server/identity/ad-ds/deploy/schema-updates)
   * Credential Guard - Enabled by Default \*\* [https://learn.microsoft.com/en-us/windows/security/identity-protection/credential-guard/configure?tabs=intune](https://learn.microsoft.com/en-us/windows/security/identity-protection/credential-guard/configure?tabs=intune)
@@ -624,8 +625,10 @@ Most of the recent additions will be marked with \*\*.
    * TLS: Deprecation of weak RSA certificates \*\* [https://techcommunity.microsoft.com/blog/windows-itpro-blog/tls-server-authentication-deprecation-of-weak-rsa-certificates/4134028](https://techcommunity.microsoft.com/blog/windows-itpro-blog/tls-server-authentication-deprecation-of-weak-rsa-certificates/4134028)
    * NTLMv1 EOL \*\* [https://support.microsoft.com/en-us/topic/upcoming-changes-to-ntlmv1-in-windows-11-version-24h2-and-windows-server-2025-c0554217-cdbc-420f-b47c-e02b2db49b2e](https://support.microsoft.com/en-us/topic/upcoming-changes-to-ntlmv1-in-windows-11-version-24h2-and-windows-server-2025-c0554217-cdbc-420f-b47c-e02b2db49b2e)
    * Turn off NTLMv1 in SMB \*\* [https://learn.microsoft.com/en-us/windows-server/storage/file-server/smb-ntlm-blocking?tabs=group-policy](https://learn.microsoft.com/en-us/windows-server/storage/file-server/smb-ntlm-blocking?tabs=group-policy)
+
 ## Server 2019/2022
   > NOTE: There weren't many significant changes in Server 2019/2022 for AD.
+
   * Server 2022: What's New In Server 2022 \*\* [https://learn.microsoft.com/en-us/windows-server/get-started/whats-new-in-windows-server-2022](https://learn.microsoft.com/en-us/windows-server/get-started/whats-new-in-windows-server-2022)
   * Server 2019: What's New in Server 2019 \*\* [https://learn.microsoft.com/en-us/windows-server/get-started/whats-new-in-windows-server-2019](https://learn.microsoft.com/en-us/windows-server/get-started/whats-new-in-windows-server-2019)
 ## Server 2016 Features **
@@ -800,6 +803,7 @@ Most of the recent additions will be marked with \*\*.
 * FRS Tools and Settings [https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-server-2003/cc786122(v=ws.10)](https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-server-2003/cc786122(v=ws.10))
 
 **Change Log**
+
 * 2026-05 - Minor update links
 * 2025-11 - SpectreOps
 * 2025-11 - Added a few updated links
