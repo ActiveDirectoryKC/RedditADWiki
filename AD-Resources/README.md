@@ -3,8 +3,7 @@
 This post will be updated periodically, but we advise you to check the wiki link here: [https://www.reddit.com/r/activedirectory/wiki/ad-resources/](https://www.reddit.com/r/activedirectory/wiki/ad-resources/) for the most up-to-date version.
 >If you are interested in how these items were selected see the wiki page for [AD Tools Reviews Guidelines](https://www.reddit.com/r/activedirectory/wiki/index/Tools-And-Resources-Listing-Guidelines). This is also where you can get details on submitting your script or tool.
 >
-<!-- END POST ONLY SECTION -->
-# AD RESOURCES
+<!-- END POST ONLY SECTION --># AD RESOURCES
 There are a lot of resources for Active Directory, Entra, and other Identity products. It is a challenge to sort through them. This list is curated by the moderators and tech council of r/ActiveDirectory to be include good references and resources. As always, please send a [modmail ](https://www.reddit.com/message/compose?to=r/activedirectory)or post an [issue](https://github.com/ActiveDirectoryKC/RedditADWiki/issues) on the wiki's github if you thing something needs added or removed or if a link is broken.
 
 >In addition, all r/ActiveDirectory wiki pages and resource posts (which are duplicates of the wiki pages) are stored on GitHub: [https://github.com/ActiveDirectoryKC/RedditADWiki](https://github.com/ActiveDirectoryKC/RedditADWiki)
@@ -17,6 +16,7 @@ There are a lot of resources for Active Directory, Entra, and other Identity pro
 
 # BEGINNER'S GUIDE - New to AD? Start Here!
 This link is a Beginner's Guide that provides resources and links to get you off the ground on your AD journey!
+
 * ✨ AD Beginner's Guide - [https://www.reddit.com/r/activedirectory/wiki/AD-Resources/AD-Beginners-Guide](https://www.reddit.com/r/activedirectory/wiki/AD-Resources/AD-Beginners-Guide)
 
 # Wiki Links
@@ -125,7 +125,7 @@ This link is a Beginner's Guide that provides resources and links to get you off
 * Exam Ref 70-742: Identity with Windows Server 2016: https://www.amazon.com/Exam-70-742-Identity-Windows-Server-ebook/dp/B06XS2R7T8
     * This is an older book but the content is still relevant.
 
-* :grey_question: Mastering Active Directory: Design, Deploy and Protect Domain Services for Windows Server 2022: [https://www.amazon.com/Mastering-Active-Directory-protect-Services/dp/1801070393?sr=8-3](https://www.amazon.com/Mastering-Active-Directory-protect-Services/dp/1801070393?sr=8-3)
+* ❔Mastering Active Directory: Design, Deploy and Protect Domain Services for Windows Server 2022: [https://www.amazon.com/Mastering-Active-Directory-protect-Services/dp/1801070393?sr=8-3](https://www.amazon.com/Mastering-Active-Directory-protect-Services/dp/1801070393?sr=8-3)
 * :grey\_question:Building Modern Active Directory: [https://www.amazon.com/Building-Modern-Active-Directory-Engineering/dp/B0DDWYT8FD?sr=8-5](https://www.amazon.com/Building-Modern-Active-Directory-Engineering/dp/B0DDWYT8FD?sr=8-5)
 
 # Best Practices Guides and Tools
