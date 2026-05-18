@@ -32,11 +32,15 @@ If you are interested in how these items were selected see the wiki page for [AD
    * Evotec has been pumping out great scripts for years and any tool from them should be used.
    * [https://github.com/EvotecIT/ADEssentials](https://github.com/EvotecIT/ADEssentials)
 * ✨GPOZaurr (EvotecIT) - Group Policy Eater is a PS module that aims to gather information about GPOs and issues.
+   * [https://github.com/EvotecIT/GPOZaurr](https://github.com/EvotecIT/GPOZaurr)
+* Group3r - Find vulnerabilities in AD Group Policy, but do it better than Grouper2 did. 
    * [https://github.com/Group3r/Group3r](https://github.com/Group3r/Group3r)
 * ✨GPOMigration Scripts - Useful for exporting your policies and uploading them into a new domain.
    * [https://github.com/GoateePFE/GPOMigration](https://github.com/GoateePFE/GPOMigration)
 * ✨PSPKI Module - Module simplifies many of the varies PKI and AD CS management tasks.
    * [https://github.com/PKISolutions/PSPKI](https://github.com/PKISolutions/PSPKI)
+* TameMyCerts
+  * [https://github.com/Sleepw4lker/TameMyCerts](https://github.com/Sleepw4lker/TameMyCerts)
 * PSPKIAudit - Tool for auditing AD CS
    * [https://github.com/GhostPack/PSPKIAudit](https://github.com/GhostPack/PSPKIAudit)
 * 💥AADInternals - Tools for administering Entra ID (Azure AD) and Office 365
@@ -60,10 +64,15 @@ If you are interested in how these items were selected see the wiki page for [AD
    * This is a freeium scanning tool that can give you at least a base-level security posture for your environment.
    * Netwrix is a little spammy with their products but recently-ish acquired PingCastle so we'll see where it goes..
    * [https://www.pingcastle.com/download/](https://www.pingcastle.com/download/)
+* ADProbe - ADProbe is a PowerShell-based assessment script that scans your AD environment.
+  * [https://academy.horizon-secured.com/p/adprobe](https://academy.horizon-secured.com/p/adprobe)
+  * Requires requesting it through the Horizon Secured site. Not on GitHub.  
 * ✨Locksmith - [https://github.com/jakehildreth/Locksmith](https://github.com/jakehildreth/Locksmith)
    * PKI Auditing and Checking Tool.
-   * This is a must have when running PKI. Really good and there is a lot of active development on it (2025).
-* ✨BlueTuxedo - [[https://github.com/jakehildreth/BlueTuxedo](https://github.com/jakehildreth/BlueTuxedo)
+   * This is a must have when running PKI.
+* Locksmith 2 [https://github.com/jakehildreth/Locksmith2](https://github.com/jakehildreth/Locksmith2)
+  * This is the successor to Locksmith. It is still being worked on but it will be the future.  
+* ✨BlueTuxedo - [https://github.com/jakehildreth/BlueTuxedo](https://github.com/jakehildreth/BlueTuxedo)
    * "A tiny tool built to find an dfix common misconfigurations in AD-Integrated DNS..."
    * Finds stuff in DNS you may not find.
 * Stairs by Jake Hildreth
@@ -71,12 +80,14 @@ If you are interested in how these items were selected see the wiki page for [AD
   * "A tiny tool for identifying AD CS issue combinations that may not be readily obvious"
   * Consider this an extension of Locksmith in many ways. 
 * 💥BloodHound/SharpHound - Attack Path Analysis
-   * [https://github.com/BloodHound](https://github.com/BloodHound)
+   * [https://github.com/SpecterOps/BloodHound](https://github.com/SpecterOps/BloodHound)
    * Almost every EDR/XDR/ITDR tool will pick up on this and alert. Be warned.
 * ✨CayoSoft Guardian Protector
     * https://resources.cayosoft.com/download-cayosoft-protector
     * Provides many services including some Real-Time AD Vulnerability Scanning and Change Monitoring.  The app leaves a lot of features off the table in trial/freeware mode and is somewhat limited. Nonetheless, there isn't any other freeware/freemium tool that does change auditing like this currently. 
     * Requires an email address (you can get by with a fake "business" email) and is effectively a reduced version of the main product. It is limited in how long it can track changes, the RBAC is basically non-existant, and it is kind of "ad heavy" pushing you upgrade to the paid version. It is useful and worth considering.
+* Netwrix Auditor
+    * [https://netwrix.com/en/resources/freeware/auditor-active-directory/](https://netwrix.com/en/resources/freeware/auditor-active-directory/)
 * GoodHound - actionable lists from BloodHound - 
    * [https://github.com/idnahacks/GoodHound](https://github.com/idnahacks/GoodHound)
 * ❔AD-Miner
@@ -98,7 +109,7 @@ If you are interested in how these items were selected see the wiki page for [AD
 * ScriptSentry 
   *  [https://github.com/techspence/ScriptSentry](https://github.com/techspence/ScriptSentry)
   *  Helps identify and find dangerous logon scripts.
-* ADeleginator
+* ✨ADeleginator
    *  [https://github.com/techspence/ADeleginator](https://github.com/techspence/ADeleginator)
    *  Helps identify and find dangerous AD trustee and resource delegations.
 *  ❔Harden-Sysvol
@@ -215,17 +226,25 @@ If you are interested in how these items were selected see the wiki page for [AD
 
 # Lab Tools
 
+* ✨ Mcirosft Zero Trust Lab - [https://microsoft.github.io/cloudlab/](https://microsoft.github.io/cloudlab/)
+  * This is a guide for building a Zero Trust lab integrating Entra and on-prem. It is an excellent guide and covers lots of content.
+  * **DOWNSIDE** - It expects that you'll have a MSDN/Visual Stuido subscription to do some of it.
+* SC-300 Identity and Access Administrator Lab Guide - [https://microsoftlearning.github.io/SC-300-Identity-and-Access-Administrator/](https://microsoftlearning.github.io/SC-300-Identity-and-Access-Administrator/)
+  * The guide for studying for the SC-300. Mostly Entra-related. 
 * AutomatedLab - AWESOME for deploying labs - [https://github.com/AutomatedLab/AutomatedLab](https://github.com/AutomatedLab/AutomatedLab)
 * GameOfAD - vulnerable AD environment - [https://github.com/Orange-Cyberdefense/GOAD](https://github.com/Orange-Cyberdefense/GOAD)
-* LUDUS - [https://docs.ludus.cloud/docs/intro](https://docs.ludus.cloud/docs/intro) 
+* ✨ LUDUS - [https://docs.ludus.cloud/docs/intro](https://docs.ludus.cloud/docs/intro) 
    * Enables a quick build of several kinds of vuln testing labs. Allows for a quick-lab of the GOAD content and some others.
    * **MOD NOTE -** This is a neat tool but requires A LOT to get it up and running
 * VulnerableAD - perfect for creating a vulnerable AD environment - [https://github.com/WazeHell/vulnerable-AD](https://github.com/WazeHell/vulnerable-AD)
 * New-Lab-Structure - Helps build a realistic-ish AD deployment for labbing - https://github.com/dcdiagfix/New-Lab-Structure/
 * ADCSGoat - "A tiny module built for a single purpose: building a small and very insecure AD CS lab." - https://github.com/jakehildreth/ADCSGoat
+* Badzure - BadZure automates the deployment of intentionally misconfigured Entra ID tenants and Azure subscriptions.
+    * [https://github.com/mvelazc0/BadZure](https://github.com/mvelazc0/BadZure)
+    * [https://www.badzure.com/](https://www.badzure.com/)
 
 # CHANGE LOG
 
+* Updated 2026-05 - More tools and resources. 
 * Updated 2025-10 - Included more tools and some minor formatting cleanup.
 * Updated 2025-04 - Included more tools from reddit and from issues. 
-* Created 2025-01

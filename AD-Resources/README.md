@@ -1,6 +1,6 @@
 <!-- POST ONLY SECTION  - This section should only show up in the pinned reddit post, not the wiki itself.-->
 >**NOTE**  
-This post will be updated periodically, but we advise you to check the wiki link here: [https://www.reddit.com/r/activedirectory/wiki/AD-Resources](https://www.reddit.com/r/activedirectory/wiki/AD-Resources) for the most up-to-date version.
+This post will be updated periodically, but we advise you to check the wiki link here: [https://www.reddit.com/r/activedirectory/wiki/ad-resources/](https://www.reddit.com/r/activedirectory/wiki/ad-resources/) for the most up-to-date version.
 >If you are interested in how these items were selected see the wiki page for [AD Tools Reviews Guidelines](https://www.reddit.com/r/activedirectory/wiki/index/Tools-And-Resources-Listing-Guidelines). This is also where you can get details on submitting your script or tool.
 >
 <!-- END POST ONLY SECTION -->
@@ -22,7 +22,7 @@ This link is a Beginner's Guide that provides resources and links to get you off
 # Wiki Links
 
 * ✨ Wiki General - [https://www.reddit.com/r/activedirectory/wiki/index/](https://www.reddit.com/r/activedirectory/wiki/index/)
-* ✨ Wiki AD-Resources - [https://www.reddit.com/r/activedirectory/wiki/AD-Resources](https://www.reddit.com/r/activedirectory/wiki/AD-Resources)
+* ✨ Wiki AD-Resources - [https://www.reddit.com/r/activedirectory/wiki/ad-resources/](https://www.reddit.com/r/activedirectory/wiki/ad-resources/)
 * ✨ Wiki MCM-Links - [https://www.reddit.com/r/activedirectory/wiki/AD-Resources/MCM-Links](https://www.reddit.com/r/activedirectory/wiki/AD-Resources/MCM-Links)
 * ✨ Wiki AD Tools - https://www.reddit.com/r/activedirectory/wiki/ad-resources/ad-tools/
 
@@ -46,6 +46,7 @@ This link is a Beginner's Guide that provides resources and links to get you off
 **Microsoft Certifications**
 
 * Microsoft Certified: Windows Server Hybrid Administrator
+	* **NOTE: THESE ARE BEING RETIRED IN SEPTEMBER 2026! New AZ-802 is replacing them!** 	
    * [https://learn.microsoft.com/en-us/credentials/certifications/windows-server-hybrid-administrator/](https://learn.microsoft.com/en-us/credentials/certifications/windows-server-hybrid-administrator/)
    * [https://learn.microsoft.com/en-us/credentials/certifications/exams/az-800/](https://learn.microsoft.com/en-us/credentials/certifications/exams/az-800/)
    * [https://learn.microsoft.com/en-us/credentials/certifications/resources/study-guides/az-800](https://learn.microsoft.com/en-us/credentials/certifications/resources/study-guides/az-800)
@@ -55,6 +56,7 @@ This link is a Beginner's Guide that provides resources and links to get you off
    * [https://learn.microsoft.com/en-us/credentials/certifications/identity-and-access-administrator/?practice-assessment-type=certification](https://learn.microsoft.com/en-us/credentials/certifications/identity-and-access-administrator/?practice-assessment-type=certification)
    * [https://learn.microsoft.com/en-us/credentials/certifications/resources/study-guides/sc-300](https://learn.microsoft.com/en-us/credentials/certifications/resources/study-guides/sc-300)
 * Microsoft Certified: Azure Security Engineer Associate \[AZ-500\]:
+	*	* **NOTE: THIS IS BEING RETIRED IN 2026! New SC-500 is replacing it.** 	 
    * [https://learn.microsoft.com/en-us/credentials/certifications/azure-security-engineer/?practice-assessment-type=certification](https://learn.microsoft.com/en-us/credentials/certifications/azure-security-engineer/?practice-assessment-type=certification)
 * Applied Skills (Mini certifications)
    * Administer Active Directory Domain Services: [https://learn.microsoft.com/en-us/credentials/applied-skills/administer-active-directory-domain-services/](https://learn.microsoft.com/en-us/credentials/applied-skills/administer-active-directory-domain-services/)
@@ -84,8 +86,6 @@ This link is a Beginner's Guide that provides resources and links to get you off
       * [https://www.pluralsight.com/paths/administering-windows-server-hybrid-core-infrastructure-az-800](https://www.pluralsight.com/paths/administering-windows-server-hybrid-core-infrastructure-az-800)
    * AZ-801
       * [https://www.pluralsight.com/cloud-guru/courses/az-801-configuring-windows-server-hybrid-advanced-services](https://www.pluralsight.com/cloud-guru/courses/az-801-configuring-windows-server-hybrid-advanced-services)
-   * SC-300
-      * [https://www.pluralsight.com/paths/microsoft-identity-and-access-administrator-sc-300](https://www.pluralsight.com/paths/microsoft-identity-and-access-administrator-sc-300)
    * AZ-500
       * [https://www.pluralsight.com/courses/az-500-microsoft-azure-security-technologies](https://www.pluralsight.com/courses/az-500-microsoft-azure-security-technologies)
 * Server Academy
@@ -218,6 +218,7 @@ This link is a Beginner's Guide that provides resources and links to get you off
 * ✨[https://adsecurity.org](https://adsecurity.org)
 * ✨[https://michaelwaterman.nl/](https://michaelwaterman.nl/)
 * [https://aadinternals.com/](https://aadinternals.com/)
+* ✨[https://michaelwaterman.nl/](https://michaelwaterman.nl/)
 * [https://www.gradenegger.eu/en/](https://www.gradenegger.eu/en/)
 * [https://www.antisyphontraining.com/blogs/](https://www.antisyphontraining.com/blogs/)
 * [https://offsec.blog/](https://offsec.blog/)
@@ -232,7 +233,7 @@ This link is a Beginner's Guide that provides resources and links to get you off
 * [https://www.menrva-tech.com/?page\_id=273](https://www.menrva-tech.com/?page_id=273)
 * [https://msandbu.org/](https://msandbu.org/)
 * [https://jakehildreth.github.io/blog/](https://jakehildreth.github.io/blog/)
-* https://www.diondefends.com/
+* [https://www.diondefends.com/](https://www.diondefends.com/)
 
 **Company-centric Blogs** \- These blogs are run by specific companies who tend to include information about themselves along with the information. This doesn't invalidate the information, but they warranted a separate category for transparency.
 

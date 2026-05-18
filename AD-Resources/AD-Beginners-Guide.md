@@ -35,6 +35,10 @@ Below there are sections tagged as either Beginner or Intermediate to establish 
 - [FREE] Lab Guides/Tools
   - AutomatedLab - https://github.com/AutomatedLab/AutomatedLab
   - LUDUS - https://docs.ludus.cloud/docs/intro
+  - ✨ Mcirosft Zero Trust Lab - https://microsoft.github.io/cloudlab/
+  - SC-300 Identity and Access Administrator Lab Guide - https://microsoftlearning.github.io/SC-300-Identity-and-Access-Administrator/
+
+
 
 ## Intermediate Resources
 - [COST] Books
@@ -77,6 +81,7 @@ Going beyond what's listed is very much up to you and where your jouney is takin
 
 # Change Log
 
+- 2026-05 Added more lab guides + link checks. 
 - 2025-11 Added more resources. 
 - Initial Release - 2025-04
 
